@@ -1336,8 +1336,56 @@
     },
     "geoffreyBawaWorksSriLanka": {
       "title": "Geoffrey Bawa Werke in Sri Lanka",
-      "location": "Colombo, Südküste",
-      "description": "Als der verstorbene Geoffrey Manning Bawa in die Welt der Architektur eintrat, hinterließ er mit jedem Design, das er produzierte, seinen Stempel. Erforschung der Moderne und ihrer kulturellen Implikationen…"
+      "location": "Verschiedene Standorte",
+      "description": "Als der verstorbene Geoffrey Manning Bawa in die Welt der Architektur eintrat, hinterließ er mit jedem Design, das er produzierte, seinen Stempel. Erforschung der Moderne und ihrer kulturellen Implikationen…",
+      "introDescription": "Als der verstorbene Geoffrey Manning Bawa in die Welt der Architektur eintrat, hinterließ er mit jedem Design, das er produzierte, seinen Stempel. Erforschung der Moderne und ihrer kulturellen Implikationen…",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Als der verstorbene Geoffrey Manning Bawa in die Welt der Architektur eintrat, hinterließ er mit jedem Design, das er produzierte, seinen Stempel. Durch die Erforschung der Moderne und ihrer kulturellen Implikationen schuf Bawa eine einzigartige architektonische Sprache, die tropische Landschaften nahtlos mit zeitgenössischen Designprinzipien verband. Seine Werke in ganz Sri Lanka stehen als Zeugnisse seiner Vision von Architektur, die die Natur respektiert, lokale Materialien feiert und Räume schafft, die mit ihrer Umgebung atmen.",
+        "architecturalLegacyTitle": "Das architektonische Erbe von Geoffrey Bawa",
+        "architecturalPoints": {
+          "tropicalModernism": "Tropische Moderne: Bawa war Pionier eines Stils, der modernistische Prinzipien mit tropischen Sensibilitäten kombinierte und Gebäude schuf, die auf Klima, Landschaft und Kultur reagieren.",
+          "integrationWithNature": "Integration mit der Natur: Seine Designs verwischen die Grenzen zwischen Innen- und Außenräumen und nutzen Höfe, Veranden und offene Pavillons, um Architektur mit der natürlichen Welt zu verbinden.",
+          "localMaterials": "Lokale Materialien: Bawa setzte sich für die Verwendung lokaler Materialien und traditioneller Bautechniken ein und passte sie an moderne Bedürfnisse an, während er die kulturelle Authentizität bewahrte.",
+          "landscapeArchitecture": "Landschaftsarchitektur: Über Gebäude hinaus war Bawa ein Meister der Landschaftsarchitektur und schuf Gärten und Außenräume, die selbst Kunstwerke sind.",
+          "internationalRecognition": "Internationale Anerkennung: Seine Arbeit hat Architekten weltweit beeinflusst und Sri Lanka als bedeutendes Zentrum tropischer Architektur etabliert.",
+          "adaptiveReuse": "Adaptive Wiederverwendung: Bawa war hervorragend darin, historische Gebäude zu transformieren, ihr Erbe zu respektieren und sie für den zeitgenössischen Gebrauch anzupassen.",
+          "sustainableDesign": "Nachhaltiges Design: Lange bevor Nachhaltigkeit zu einem Schlagwort wurde, zeigten Bawas Designs Umweltbewusstsein durch passive Kühlung, natürliche Belüftung und minimale Umweltauswirkungen.",
+          "culturalContext": "Kultureller Kontext: Jedes von Bawas Projekten spiegelt ein tiefes Verständnis der sri-lankischen Kultur, Geschichte und Lebensweise wider und schafft Architektur, die sowohl modern als auch tief in Ort verwurzelt ist."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "lunuganga": {
+            "title": "Lunuganga Garten",
+            "description": "Lunuganga ist Geoffrey Bawas Landgut und Garten, ein Meisterwerk tropischer Landschaftsgestaltung, das seine Vision zeigt, Architektur mit Natur zu verbinden."
+          },
+          "numberEleven": {
+            "title": "Nummer Elf",
+            "description": "Nummer Elf ist Bawas Residenz in Colombo, heute ein Museum, das seine persönliche Sammlung und Designphilosophie zeigt."
+          },
+          "parliament": {
+            "title": "Parlamentsgebäude",
+            "description": "Das sri-lankische Parlamentsgebäude in Kotte ist eines von Bawas bedeutendsten öffentlichen Werken und spiegelt seine Meisterschaft der monumentalen Architektur wider."
+          },
+          "paradiseRoadGallery": {
+            "title": "Paradise Road Gallery Café",
+            "description": "Eine lebendige Umwandlung von Bawas ehemaligem Bürogarage, heute ein gefeiertes Café, das seine architektonische Ästhetik mit zeitgenössischer Kunst und Design verbindet."
+          },
+          "ratnasivaratnamHouse": {
+            "title": "Das Ratnasivaratnam Haus",
+            "description": "Ein bahnbrechendes Hofhaus in Colombo, gefeiert für seine geniale Nutzung eines schmalen städtischen Grundstücks, um ein lichtdurchflutetes, privates Familienhaus zu schaffen."
+          },
+          "steelCorporation": {
+            "title": "Stahlkonzern Büros und Wohnungen",
+            "description": "Ein robustes Industriekomplex, in dem moderne Formen durch gestaltete Höfe und passive Kühltechniken gemildert werden und eine humane Arbeitsumgebung schaffen."
+          }
+        }
+      }
     },
     "hotAirBallooningDayTour": {
       "title": "Heißluftballon Tagestour",

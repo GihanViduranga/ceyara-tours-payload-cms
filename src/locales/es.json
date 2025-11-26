@@ -1194,7 +1194,26 @@
     "belihuloyaDayTour": {
       "title": "Excursión de un día Belihuloya",
       "location": "Belihuloya",
-      "description": "La afortunada ubicación geográfica de Belihuloya une las zonas húmedas y secas de la isla a una altitud de menos de 1500m. Como resultado…"
+      "description": "La afortunada ubicación geográfica de Belihuloya une las zonas húmedas y secas de la isla a una altitud de menos de 1500m. Como resultado…",
+      "introDescription": "Descubra la belleza pintoresca de Belihuloya, una encantadora estación de montaña rodeada de plantaciones de té, cascadas y exuberantes paisajes verdes.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Belihuloya es una pintoresca estación de montaña ubicada en las tierras altas centrales de Sri Lanka, que ofrece a los visitantes una mezcla perfecta de belleza natural, aventura y tranquilidad. Ubicada entre las estaciones de montaña de Nuwara Eliya y Haputale, Belihuloya ofrece una oportunidad única de experimentar el clima fresco y los impresionantes paisajes de la región montañosa de Sri Lanka.",
+        "historicalProminenceTitle": "Destacados de Belihuloya",
+        "historicalPoints": {
+          "scenicBeauty": "Belleza pintoresca: Rodeada de colinas ondulantes, plantaciones de té y montañas brumosas, Belihuloya ofrece impresionantes vistas panorámicas en cada curva.",
+          "hillStation": "Estación de montaña: Ubicada a una elevación de aproximadamente 1.500 metros sobre el nivel del mar, el área disfruta de un clima fresco y agradable durante todo el año.",
+          "climate": "Clima: El clima templado lo convierte en un escape ideal del calor tropical, con temperaturas que oscilan entre 15°C y 25°C durante todo el año.",
+          "biodiversity": "Biodiversidad: La región es rica en flora y fauna, con numerosas especies endémicas de aves, mariposas y plantas que prosperan en los bosques montanos.",
+          "adventureActivities": "Actividades de aventura: El área ofrece oportunidades para hacer senderismo, trekking, observación de aves y explorar cascadas cercanas y piscinas naturales.",
+          "culturalHeritage": "Patrimonio cultural: Experimente la cultura local del té, visite fábricas de té e interactúe con las amigables comunidades locales.",
+          "naturalWonders": "Maravillas naturales: Descubra cascadas ocultas, arroyos prístinos y bosques exuberantes que hacen de Belihuloya un paraíso para los amantes de la naturaleza.",
+          "touristDestination": "Destino turístico: Aunque menos concurrido que otras estaciones de montaña, Belihuloya está ganando reconocimiento como un destino fuera de los caminos trillados para viajeros que buscan experiencias auténticas."
+        }
+      }
     },
     "colomboDayTour": {
       "title": "Excursión de un día Colombo",

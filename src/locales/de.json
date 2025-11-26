@@ -1195,7 +1195,26 @@
     "belihuloyaDayTour": {
       "title": "Belihuloya Tagestour",
       "location": "Belihuloya",
-      "description": "Die glückliche geografische Lage von Belihuloya verbindet die feuchten und trockenen Zonen der Insel in einer Höhe von weniger als 1500m. Infolgedessen…"
+      "description": "Die glückliche geografische Lage von Belihuloya verbindet die feuchten und trockenen Zonen der Insel in einer Höhe von weniger als 1500m. Infolgedessen…",
+      "introDescription": "Entdecken Sie die malerische Schönheit von Belihuloya, einem charmanten Bergkurort, umgeben von Teeplantagen, Wasserfällen und üppigen grünen Landschaften.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Belihuloya ist ein malerischer Bergkurort in den zentralen Hochländern Sri Lankas, der Besuchern eine perfekte Mischung aus natürlicher Schönheit, Abenteuer und Ruhe bietet. Eingebettet zwischen den Bergkurorten Nuwara Eliya und Haputale bietet Belihuloya eine einzigartige Gelegenheit, das kühle Klima und die atemberaubenden Landschaften des Hügellandes Sri Lankas zu erleben.",
+        "historicalProminenceTitle": "Highlights von Belihuloya",
+        "historicalPoints": {
+          "scenicBeauty": "Malerische Schönheit: Umgeben von sanften Hügeln, Teeplantagen und nebligen Bergen bietet Belihuloya atemberaubende Panoramablicke bei jeder Kurve.",
+          "hillStation": "Bergkurort: In einer Höhe von etwa 1.500 Metern über dem Meeresspiegel genießt das Gebiet das ganze Jahr über ein kühles, angenehmes Klima.",
+          "climate": "Klima: Das gemäßigte Klima macht es zu einem idealen Zufluchtsort vor der tropischen Hitze, mit Temperaturen zwischen 15°C und 25°C das ganze Jahr über.",
+          "biodiversity": "Biodiversität: Die Region ist reich an Flora und Fauna, mit zahlreichen endemischen Arten von Vögeln, Schmetterlingen und Pflanzen, die in den Bergwäldern gedeihen.",
+          "adventureActivities": "Abenteueraktivitäten: Das Gebiet bietet Möglichkeiten zum Wandern, Trekking, Vogelbeobachtung und Erkunden nahegelegener Wasserfälle und natürlicher Pools.",
+          "culturalHeritage": "Kulturelles Erbe: Erleben Sie die lokale Teekultur, besuchen Sie Teefabriken und interagieren Sie mit den freundlichen lokalen Gemeinschaften.",
+          "naturalWonders": "Natürliche Wunder: Entdecken Sie versteckte Wasserfälle, unberührte Bäche und üppige Wälder, die Belihuloya zu einem Paradies für Naturliebhaber machen.",
+          "touristDestination": "Touristenziel: Während Belihuloya weniger überlaufen ist als andere Bergkurorte, gewinnt es als abseits der ausgetretenen Pfade liegendes Ziel für Reisende, die authentische Erfahrungen suchen, an Anerkennung."
+        }
+      }
     },
     "colomboDayTour": {
       "title": "Tagestour von Colombo",

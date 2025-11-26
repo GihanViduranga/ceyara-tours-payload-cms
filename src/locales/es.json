@@ -1388,63 +1388,401 @@
     },
     "hotAirBallooningDayTour": {
       "title": "Excursión en globo aerostático",
-      "location": "Habarana / Sigiriya / Dambulla",
-      "description": "Disfrute de una experiencia única en la vida mientras siente la emoción de la adrenalina mientras flota sobre impresionantes vistas del paraíso tropical de Sri Lanka."
+      "location": "Dambulla",
+      "description": "Disfrute de una experiencia única en la vida mientras siente la emoción de la adrenalina mientras flota sobre impresionantes vistas del paraíso tropical de Sri Lanka.",
+      "introDescription": "Disfrute de una experiencia única en la vida mientras siente la emoción de la adrenalina mientras flota sobre impresionantes vistas del paraíso tropical de Sri Lanka.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Experimente la magia de flotar sobre los impresionantes paisajes de Sri Lanka en un globo aerostático. Esta aventura inolvidable ofrece vistas panorámicas de ruinas antiguas, bosques exuberantes y paisajes pintorescos mientras flota suavemente por el cielo matutino."
+      }
     },
     "kandyDayTour": {
       "title": "Excursión de un día Kandy",
-      "location": "Ciudad de Kandy",
-      "description": "Kandy, más popularmente conocido como la capital montañosa de Sri Lanka, es un atractivo destino turístico. Su historia se remonta al siglo XV…"
+      "location": "Kandy",
+      "description": "Kandy, más popularmente conocido como la capital montañosa de Sri Lanka, es un atractivo destino turístico. Su historia se remonta al siglo XV…",
+      "introDescription": "Kandy, más popularmente conocido como la capital montañosa de Sri Lanka, es un atractivo destino turístico. Su historia se remonta al siglo XV cuando fue establecido como la última capital de la era de los antiguos reyes de Sri Lanka. La ciudad está enclavada en las colinas de la meseta de Kandy, que cruza áreas de plantaciones tropicales, principalmente té. Kandy es tanto una ciudad administrativa como religiosa y también es la capital de la Provincia Central.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Kandy, más popularmente conocido como la capital montañosa de Sri Lanka, es un atractivo destino turístico. Su historia se remonta al siglo XV cuando fue establecido como la última capital de la era de los antiguos reyes de Sri Lanka. La ciudad está enclavada en las colinas de la meseta de Kandy, que cruza áreas de plantaciones tropicales, principalmente té. Kandy es tanto una ciudad administrativa como religiosa y también es la capital de la Provincia Central.",
+        "historicalProminenceTitle": "Importancia Histórica de Kandy",
+        "historicalPoints": {
+          "15thCentury": "Siglo XV: Kandy fue establecido como la última capital de la era de los antiguos reyes de Sri Lanka.",
+          "templeOfTheTooth": "Templo de la Reliquia del Diente: El sagrado Templo de la Reliquia del Diente (Sri Dalada Maligawa) alberga la reliquia del diente del Buddha, convirtiéndolo en uno de los sitios budistas más importantes del mundo.",
+          "unescoHeritage": "Sitio del Patrimonio Mundial de la UNESCO: Kandy fue declarado Sitio del Patrimonio Mundial de la UNESCO en 1988, reconociendo su importancia cultural e histórica.",
+          "kandyanKingdom": "Reino de Kandy: La ciudad sirvió como capital del Reino de Kandy, que resistió exitosamente a las potencias coloniales europeas durante más de 300 años.",
+          "britishColonial": "Período Colonial Británico: Kandy cayó ante los británicos en 1815, poniendo fin al independiente Reino de Kandy.",
+          "culturalCenter": "Centro Cultural: Hoy, Kandy sigue siendo un importante centro cultural, conocido por sus artes tradicionales, artesanías y el festival anual Esala Perahera."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lugares que visitará",
+        "places": {
+          "templeOfTheTooth": {
+            "title": "Templo de la Reliquia del Diente",
+            "description": "El templo budista más sagrado de Sri Lanka, que alberga la reliquia del diente del Buddha y es un Sitio del Patrimonio Mundial de la UNESCO."
+          },
+          "kandyLake": {
+            "title": "Lago de Kandy",
+            "description": "Un hermoso lago artificial construido en 1807 por el último rey de Kandy, que ofrece vistas pintorescas y una atmósfera pacífica en el corazón de la ciudad."
+          },
+          "royalBotanicalGardens": {
+            "title": "Jardines Botánicos Reales",
+            "description": "Uno de los mejores jardines tropicales de Asia, con más de 4.000 especies de plantas, incluidas orquídeas raras, palmeras y plantas medicinales."
+          },
+          "kandyViewPoint": {
+            "title": "Mirador de Kandy",
+            "description": "Un mirador panorámico que ofrece vistas impresionantes de la ciudad de Kandy, el lago y las colinas circundantes."
+          },
+          "kandyMarket": {
+            "title": "Mercado de Kandy",
+            "description": "Un mercado local vibrante donde puede experimentar la vida diaria de Kandy, comprar especias, frutas y artesanías locales."
+          },
+          "bahirawakandaBuddha": {
+            "title": "Estatua de Buddha Bahirawakanda",
+            "description": "Una estatua masiva de Buddha blanca ubicada en una colina, que ofrece vistas panorámicas de Kandy y las montañas circundantes."
+          },
+          "kandyMuseum": {
+            "title": "Museo de Kandy",
+            "description": "Un museo que muestra la historia y cultura de Kandy, con artefactos de la época de Kandy y el período colonial británico."
+          },
+          "udawattekeleSanctuary": {
+            "title": "Santuario Udawattekele",
+            "description": "Un santuario forestal cerca del Templo de la Reliquia del Diente, que alberga una variedad de aves, monos y otros animales salvajes."
+          }
+        }
+      }
     },
     "kithulgalaWhiteWaterRafting": {
       "title": "Rafting Kithulgala",
-      "location": "Kithulgala",
-      "description": "La ciudad de Kitulgala es donde este tour lo llevará por un día lleno de aventura extrema. Kitulgala es una pequeña pero hermosa ciudad ubicada en un bosque lluvioso de zona húmeda…"
+      "location": "Kitulgala",
+      "description": "La ciudad de Kitulgala es donde este tour lo llevará por un día lleno de aventura extrema. Kitulgala es una pequeña pero hermosa ciudad ubicada en un bosque lluvioso de zona húmeda…",
+      "introDescription": "La ciudad de Kitulgala es donde este tour lo llevará por un día lleno de aventura extrema. Kitulgala es una pequeña pero hermosa ciudad ubicada en un bosque lluvioso de zona húmeda. Este pintoresco destino es famoso por ser el lugar de rodaje de la película clásica \"El Puente sobre el Río Kwai\" y ofrece una de las mejores experiencias de rafting en aguas bravas de Sri Lanka.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "La ciudad de Kitulgala es donde este tour lo llevará por un día lleno de aventura extrema. Kitulgala es una pequeña pero hermosa ciudad ubicada en un bosque lluvioso de zona húmeda. Este pintoresco destino es famoso por ser el lugar de rodaje de la película clásica \"El Puente sobre el Río Kwai\" y ofrece una de las mejores experiencias de rafting en aguas bravas de Sri Lanka.",
+        "adventureExperienceTitle": "Experiencia de Aventura",
+        "adventurePoints": {
+          "raftingExperience": "Rafting en Aguas Bravas: Experimente la emoción de navegar por rápidos en el Río Kelani, uno de los destinos de rafting más emocionantes de Sri Lanka con rápidos que van desde Grado 2 hasta Grado 3.",
+          "scenicBeauty": "Belleza Escénica: Rodeado de exuberante selva tropical, cascadas y paisajes naturales prístinos, Kitulgala ofrece vistas impresionantes durante su aventura.",
+          "safetyStandards": "Estándares de Seguridad: Todas las actividades de rafting se realizan con guías profesionales, equipo de seguridad y estándares internacionales de seguridad para garantizar una experiencia segura pero emocionante.",
+          "suitableForAll": "Adecuado para Todos los Niveles: Ya sea que sea principiante o un rafter experimentado, los rápidos son adecuados para varios niveles de habilidad, lo que lo hace accesible para entusiastas de la aventura de todas las edades.",
+          "otherActivities": "Actividades Adicionales: Más allá del rafting, Kitulgala ofrece oportunidades para trekking en la jungla, observación de aves y exploración de la rica biodiversidad de la selva tropical.",
+          "filmLocation": "Ubicación de Filmación: Visite la icónica ubicación del puente donde se filmó la película ganadora del Oscar \"El Puente sobre el Río Kwai\", agregando significado histórico a su aventura."
+        }
+      }
     },
     "littleEnglandDayTour": {
       "title": "Excursión Little England",
       "location": "Nuwara Eliya",
-      "description": "Nuwara Eliya, también conocido como \"Little England\" de Sri Lanka, es el principal resort de montaña del país. A una altura de aproximadamente 2000m sobre el nivel del mar…"
+      "description": "Nuwara Eliya, también conocido como \"Little England\" de Sri Lanka, es el principal resort de montaña del país. A una altura de aproximadamente 2000m sobre el nivel del mar…",
+      "introDescription": "Nuwara Eliya, también conocido como \"Little England\" de Sri Lanka, es el principal resort de montaña del país. A una altura de aproximadamente 2000m sobre el nivel del mar, esta encantadora ciudad ofrece un clima fresco, exuberantes plantaciones de té y una atmósfera distintivamente británica colonial. La ciudad es famosa por sus hermosos jardines, arquitectura colonial y paisajes pintorescos que se asemejan al campo inglés.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Nuwara Eliya, también conocido como \"Little England\" de Sri Lanka, es el principal resort de montaña del país. A una altura de aproximadamente 2000m sobre el nivel del mar, esta encantadora ciudad ofrece un clima fresco, exuberantes plantaciones de té y una atmósfera distintivamente británica colonial. La ciudad es famosa por sus hermosos jardines, arquitectura colonial y paisajes pintorescos que se asemejan al campo inglés.",
+        "historicalProminenceTitle": "Importancia Histórica de Nuwara Eliya",
+        "historicalPoints": {
+          "britishColonial": "Era Colonial Británica: Nuwara Eliya fue desarrollada por los británicos en el siglo XIX como una estación de montaña para escapar del calor de las tierras bajas, creando una atmósfera de \"Little England\".",
+          "teaIndustry": "Industria del Té: La región se convirtió en el corazón de la industria del té de Sri Lanka, con muchas plantaciones de té establecidas por plantadores británicos, convirtiéndola en una de las mejores regiones productoras de té del mundo.",
+          "colonialArchitecture": "Arquitectura Colonial: La ciudad cuenta con edificios coloniales bien conservados, incluyendo el Grand Hotel, el St. Andrew's Hotel y varios bungalows que reflejan estilos arquitectónicos británicos.",
+          "golfCourse": "Campo de Golf: Nuwara Eliya es el hogar de uno de los campos de golf más antiguos de Asia, establecido en 1889, agregando a su encanto colonial británico.",
+          "climate": "Clima Fresco: La gran altitud proporciona un clima templado durante todo el año, convirtiéndolo en un retiro perfecto del calor tropical de las áreas costeras.",
+          "touristDestination": "Destino Turístico: Hoy, Nuwara Eliya es uno de los destinos turísticos más populares de Sri Lanka, conocido por su belleza natural, fincas de té y patrimonio colonial único."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lugares que visitará",
+        "places": {
+          "gregoryLake": {
+            "title": "Lago Gregory",
+            "description": "Un hermoso lago artificial que ofrece paseos en bote, equitación y vistas pintorescas de las montañas circundantes y plantaciones de té."
+          },
+          "hakgalaBotanicalGardens": {
+            "title": "Jardines Botánicos Hakgala",
+            "description": "Uno de los tres jardines botánicos en Sri Lanka, con una impresionante colección de rosas, helechos y plantas exóticas en un entorno montañoso fresco."
+          },
+          "seethaAmmamTemple": {
+            "title": "Templo Seetha Amman",
+            "description": "Un templo hindú asociado con la epopeya Ramayana, ubicado en un hermoso entorno con un arroyo y formaciones rocosas naturales."
+          },
+          "victoriaPark": {
+            "title": "Parque Victoria",
+            "description": "Un parque bien mantenido en el corazón de Nuwara Eliya, perfecto para paseos tranquilos y disfrutar del aire fresco de montaña."
+          },
+          "teaPlantations": {
+            "title": "Plantaciones de Té",
+            "description": "Visite fincas de té en funcionamiento para aprender sobre el proceso de elaboración del té y disfrutar de té de Ceilán fresco mientras está rodeado de colinas verdes ondulantes."
+          },
+          "loversLeap": {
+            "title": "Salto de los Amantes",
+            "description": "Una cascada pintoresca con una leyenda romántica, que ofrece hermosas vistas y un entorno natural refrescante."
+          },
+          "pedroTeaEstate": {
+            "title": "Finca de Té Pedro",
+            "description": "Una de las fincas de té más antiguas y famosas de Nuwara Eliya, que ofrece recorridos por la fábrica y experiencias de degustación de té."
+          },
+          "moonPlains": {
+            "title": "Llanuras de la Luna",
+            "description": "Una llanura única de gran altitud que ofrece vistas panorámicas de las montañas y valles circundantes, accesible por safari en jeep."
+          }
+        }
+      }
     },
     "negomboLagoonFishingDayTour": {
       "title": "Excursión de pesca laguna Negombo",
       "location": "Negombo",
-      "description": "A lo largo de la costa oeste de Sri Lanka se encuentra la amigable ciudad de Negombo, una de las ciudades pesqueras más antiguas del país. Además de su industria pesquera centenaria…"
+      "description": "A lo largo de la costa oeste de Sri Lanka se encuentra la amigable ciudad de Negombo, una de las ciudades pesqueras más antiguas del país. Además de su industria pesquera centenaria…",
+      "introDescription": "A lo largo de la costa oeste de Sri Lanka se encuentra la amigable ciudad de Negombo, una de las ciudades pesqueras más antiguas del país. Además de su industria pesquera centenaria, Negombo también es conocida por sus hermosas playas, arquitectura colonial holandesa y la famosa Laguna de Negombo. Esta excursión ofrece una oportunidad única de experimentar métodos de pesca tradicionales y explorar la rica cultura marítima de esta ciudad costera.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "A lo largo de la costa oeste de Sri Lanka se encuentra la amigable ciudad de Negombo, una de las ciudades pesqueras más antiguas del país. Además de su industria pesquera centenaria, Negombo también es conocida por sus hermosas playas, arquitectura colonial holandesa y la famosa Laguna de Negombo. Esta excursión ofrece una oportunidad única de experimentar métodos de pesca tradicionales y explorar la rica cultura marítima de esta ciudad costera."
+      },
+      "cards": {
+        "negomboLagoon": {
+          "title": "Laguna de Negombo",
+          "description": "Aprenda métodos tradicionales y modernos de pesca. Aquí verá la cocina en vivo de los mariscos que eligió para el almuerzo."
+        },
+        "negomboBeach": {
+          "title": "Playa de Negombo",
+          "description": "Relájese en las hermosas arenas doradas de la Playa de Negombo, una de las playas más populares de la costa oeste. Disfrute de las aguas tranquilas, perfectas para nadar, y contemple las impresionantes vistas del atardecer sobre el Océano Índico."
+        }
+      }
     },
     "polonnaruwaDayTour": {
       "title": "Excursión de un día Polonnaruwa",
       "location": "Polonnaruwa",
-      "description": "Siendo el segundo reino más grande de Sri Lanka, la antigua ciudad de Polonnaruwa tiene mucho que ofrecer para arqueólogos, amantes de la historia…"
+      "description": "Siendo el segundo reino más grande de Sri Lanka, la antigua ciudad de Polonnaruwa tiene mucho que ofrecer para arqueólogos, amantes de la historia…",
+      "introDescription": "Siendo el segundo reino más grande de Sri Lanka, la antigua ciudad de Polonnaruwa tiene mucho que ofrecer para arqueólogos, amantes de la historia y viajeros que buscan explorar el rico patrimonio cultural de la isla. Polonnaruwa sirvió como capital de Sri Lanka desde el siglo XI hasta el XIII d.C. y ahora es un Sitio del Patrimonio Mundial de la UNESCO, que muestra ruinas bien conservadas de palacios, templos y monumentos antiguos.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Siendo el segundo reino más grande de Sri Lanka, la antigua ciudad de Polonnaruwa tiene mucho que ofrecer para arqueólogos, amantes de la historia y viajeros que buscan explorar el rico patrimonio cultural de la isla. Polonnaruwa sirvió como capital de Sri Lanka desde el siglo XI hasta el XIII d.C. y ahora es un Sitio del Patrimonio Mundial de la UNESCO, que muestra ruinas bien conservadas de palacios, templos y monumentos antiguos.",
+        "historicalProminenceTitle": "Importancia Histórica de Polonnaruwa",
+        "historicalPoints": {
+          "11thCentury": "Siglo XI d.C.: Polonnaruwa se convirtió en la capital de Sri Lanka después de la caída de Anuradhapura, marcando el comienzo de una nueva era en la historia de Sri Lanka.",
+          "kingVijayabahu": "Rey Vijayabahu I: Expulsó exitosamente a los invasores Chola y estableció Polonnaruwa como la nueva capital, comenzando un período de gran desarrollo arquitectónico y cultural.",
+          "kingParakramabahu": "Rey Parakramabahu I: La edad de oro de Polonnaruwa, conocida por extensas obras de riego, incluyendo el masivo Parakrama Samudra (mar de Parakrama), y magníficos logros arquitectónicos.",
+          "unescoHeritage": "Sitio del Patrimonio Mundial de la UNESCO: Polonnaruwa fue declarado Sitio del Patrimonio Mundial de la UNESCO en 1982, reconociendo su valor universal excepcional y restos arqueológicos bien conservados.",
+          "architecturalAchievements": "Logros Arquitectónicos: La ciudad cuenta con ejemplos notables de arquitectura cingalesa antigua, incluyendo el templo rocoso Gal Vihara con sus masivas estatuas de Buddha talladas en granito.",
+          "irrigationSystem": "Sistema de Riego: Polonnaruwa es famosa por su sofisticado sistema de riego, con numerosos tanques y canales que demuestran la avanzada ingeniería hidráulica de los antiguos cingaleses.",
+          "decline": "Declive del Siglo XIII: El reino comenzó a declinar en el siglo XIII, eventualmente llevando al abandono de Polonnaruwa como capital y al cambio de poder a otras regiones."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lugares que visitará",
+        "places": {
+          "quadrangle": {
+            "title": "El Cuadrángulo",
+            "description": "Un grupo compacto de edificios antiguos que incluye el Vatadage, Thuparama y otras estructuras significativas, mostrando la brillantez arquitectónica del antiguo Polonnaruwa."
+          },
+          "galVihara": {
+            "title": "Gal Vihara",
+            "description": "Un templo rocoso con cuatro magníficas estatuas de Buddha talladas de una sola roca de granito, incluyendo un masivo Buddha reclinado, consideradas obras maestras de la escultura cingalesa antigua."
+          },
+          "rankotVihara": {
+            "title": "Rankot Vihara",
+            "description": "La dagoba más grande de Polonnaruwa, con 55 metros de altura, construida durante el reinado del Rey Nissanka Malla en el siglo XII."
+          },
+          "parakramaSamudra": {
+            "title": "Parakrama Samudra",
+            "description": "Un masivo embalse artificial construido por el Rey Parakramabahu I, cubriendo un área de 2.500 hectáreas y demostrando la avanzada ingeniería de riego del antiguo Sri Lanka."
+          },
+          "potgulVihara": {
+            "title": "Potgul Vihara",
+            "description": "Un complejo de biblioteca único con una estructura circular, se cree que albergó manuscritos antiguos y textos religiosos."
+          }
+        }
+      }
     },
     "sigiriyaDambullaDayTour": {
       "title": "Excursión Sigiriya & Dambulla",
       "location": "Sigiriya & Dambulla",
-      "description": "Sigiriya, un palacio antiguo, fue una vez nominado como la 8ª maravilla del mundo. Hoy, Sigiriya y Dambulla son un sitio de patrimonio reconocido por la UNESCO y una importante atracción turística."
+      "description": "Sigiriya, un palacio antiguo, fue una vez nominado como la 8ª maravilla del mundo. Hoy, Sigiriya y Dambulla son un sitio de patrimonio reconocido por la UNESCO y una importante atracción turística.",
+      "introDescription": "Sigiriya, un palacio antiguo, fue una vez nominado como la 8ª maravilla del mundo. Hoy, Sigiriya y Dambulla son un sitio de patrimonio reconocido por la UNESCO y una importante atracción turística.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Sigiriya, un palacio y fortaleza rocosa antigua, fue una vez nominado como la 8ª maravilla del mundo. Hoy, Sigiriya y Dambulla son sitios de patrimonio reconocidos por la UNESCO y atracciones turísticas importantes. Esta excursión de un día lo lleva a través de dos de los sitios históricos más icónicos de Sri Lanka, mostrando arquitectura antigua, frescos impresionantes y templos de cuevas notables que cuentan la historia de un rico patrimonio cultural que abarca más de dos milenios.",
+        "historicalProminenceTitle": "Importancia Histórica de Sigiriya & Dambulla",
+        "historicalPoints": {
+          "5thCenturyAD": "Siglo V d.C.: El Rey Kassapa I construyó la fortaleza del palacio en la cima de la Roca Sigiriya, creando uno de los logros arquitectónicos más notables del antiguo Sri Lanka.",
+          "sigiriyaFrescoes": "Frescos de Sigiriya: Las famosas pinturas de doncellas celestiales (apsaras) se consideran obras maestras del arte antiguo de Sri Lanka, que datan de hace más de 1.500 años.",
+          "dambullaCaves": "Siglo I a.C.: El Templo de Cuevas de Dambulla fue establecido por el Rey Valagamba, quien se refugió en las cuevas durante una invasión. El complejo del templo ha sido usado continuamente durante más de 2.000 años.",
+          "unescoHeritage": "Sitios del Patrimonio Mundial de la UNESCO: Tanto Sigiriya (1982) como Dambulla (1991) fueron declarados Sitios del Patrimonio Mundial de la UNESCO, reconociendo su valor universal excepcional y significado cultural.",
+          "architecturalMarvels": "Maravillas Arquitectónicas: Sigiriya cuenta con jardines de agua sofisticados, muros espejo y la icónica Puerta del León, mientras que Dambulla alberga más de 150 estatuas de Buddha y extensas pinturas en cuevas.",
+          "culturalTriangle": "Triángulo Cultural: Ambos sitios son parte del Triángulo Cultural de Sri Lanka, junto con Anuradhapura y Polonnaruwa, representando la edad de oro de la antigua civilización cingalesa.",
+          "kingParakramabahu": "Siglo XII d.C.: El Rey Parakramabahu I renovó y expandió el Templo de Cuevas de Dambulla, agregando muchas de las estatuas y pinturas que se pueden ver hoy.",
+          "modernSignificance": "Significado Moderno: Hoy, estos sitios atraen a millones de visitantes anualmente y siguen siendo lugares activos de adoración, requiriendo respeto y vestimenta apropiada de los visitantes."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lugares que visitará",
+        "places": {
+          "sigiriyaRock": {
+            "title": "Fortaleza de la Roca Sigiriya",
+            "description": "Una antigua fortaleza rocosa y ruinas del palacio ubicadas en el Distrito de Matale. Sigiriya es un Sitio del Patrimonio Mundial de la UNESCO, famoso por sus frescos antiguos y el muro espejo."
+          },
+          "dambullaCaveTemple": {
+            "title": "Templo de Cuevas de Dambulla",
+            "description": "También conocido como el Templo Dorado de Dambulla, este es el complejo de templos de cuevas más grande y mejor conservado de Sri Lanka, con más de 150 estatuas de Buddha."
+          },
+          "sigiriyaFrescoes": {
+            "title": "Frescos de Sigiriya",
+            "description": "Las famosas pinturas antiguas de Sigiriya, que representan doncellas celestiales, se consideran obras maestras del arte antiguo de Sri Lanka."
+          },
+          "mirrorWall": {
+            "title": "Muro Espejo",
+            "description": "Un muro de yeso pulido que una vez reflejaba como un espejo, ahora cubierto con graffiti antiguos y poemas que datan de hace más de 1.000 años."
+          },
+          "lionGate": {
+            "title": "Puerta del León",
+            "description": "Las masivas garras de piedra de un león que una vez guardaron la entrada al palacio en la cima de la Roca Sigiriya."
+          },
+          "waterGardens": {
+            "title": "Jardines de Agua",
+            "description": "Sistemas hidráulicos sofisticados y jardines de agua simétricos en la base de la Roca Sigiriya, mostrando maravillas de ingeniería antigua."
+          }
+        }
+      }
     },
     "sinharajaDayTour": {
       "title": "Excursión de un día Sinharaja",
-      "location": "Bosque lluvioso Sinharaja",
-      "description": "Sitio del Patrimonio Mundial de la UNESCO desde 1988. Actualmente, la reserva abarca 8864 hectáreas y el país planea cuadruplicar el tamaño del área para respetar la importancia ecológica de la región."
+      "location": "Sinharaja",
+      "description": "Sitio del Patrimonio Mundial de la UNESCO desde 1988. Actualmente, la reserva abarca 8864 hectáreas y el país planea cuadruplicar el tamaño del área para respetar la importancia ecológica de la región.",
+      "introDescription": "Sitio del Patrimonio Mundial de la UNESCO desde 1988. Actualmente, la reserva abarca 8864 hectáreas y el país planea cuadruplicar el tamaño del área para respetar la importancia ecológica de la región.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "La rica y única vida animal y vegetal en la Reserva del Bosque Lluvioso de Sinharaja es la razón por la que fue marcada como Sitio del Patrimonio Mundial de la UNESCO en 1988. Actualmente, la reserva abarca 8864 hectáreas y el país planea cuadruplicar el tamaño del área para respetar la importancia ecológica de la región. El bosque lluvioso virgen montañoso es un tesoro de especies endémicas que incluyen mamíferos, reptiles, aves, anfibios y, por supuesto, una abundancia de árboles e insectos. Particularmente conocido por la observación de aves, un fenómeno interesante aquí es que las aves se mueven en bandadas de alimentación mixtas, lideradas por el gran Drongo de Cola de Raqueta y el ruidoso Babbler de Pico Naranja. 20 de las 26 especies de aves endémicas en Sri Lanka se ven en el Bosque Lluvioso de Sinharaja. Además de aves, más del 60% de las plantas son endémicas, muchas de las cuales son raras. La reserva también alberga más del 50% de las especies endémicas de mamíferos, mariposas, reptiles, anfibios e insectos del país.",
+        "journeyTitle": "Viaje al Corazón Salvaje de Sinharaja",
+        "journeyPoints": {
+          "trek": "Trek a través del Bosque Lluvioso de Sinharaja, un Sitio del Patrimonio Mundial de la UNESCO y el último tramo significativo de bosque lluvioso tropical primario de Sri Lanka.",
+          "biodiversity": "Descubra un increíble punto caliente de biodiversidad donde prospera la mayoría de las especies endémicas de mamíferos e insectos de Sri Lanka.",
+          "junglefowl": "Mantenga sus ojos en el dosel para avistar aves endémicas raras como el vibrante Gallo de la Selva de Sri Lanka de cara roja.",
+          "owl": "Escuche el distintivo llamado del Autillo de Serendib, una de las muchas aves raras que solo se encuentran aquí.",
+          "guide": "Su guía naturalista experto lo ayudará a localizar vida silvestre esquiva y explicará el ecosistema complejo y delicado del bosque.",
+          "canopy": "Maravíllese con el exuberante dosel verde esmeralda lleno de una gran variedad de árboles nativos y plantas medicinales.",
+          "reptiles": "Sea testigo de una impresionante variedad de reptiles y anfibios únicos que llaman a este bosque lluvioso protegido su hogar.",
+          "atmosphere": "Experimente la atmósfera tranquila y el aire fresco y húmedo bajo la sombra densa del dosel del bosque entrelazado.",
+          "paths": "Siga caminos serpenteantes pasando arroyos suaves y pequeñas cascadas pintorescas escondidas en lo profundo del bosque virgen.",
+          "beauty": "Sea cautivado por la pura belleza de este desierto intacto, un verdadero paraíso para los amantes de la naturaleza y fotógrafos.",
+          "immersive": "Esta excursión guiada ofrece un viaje inmersivo y educativo al corazón de un ecosistema vivo y respirador.",
+          "magpie": "Encuentre la vista inolvidable de la brillante Urraca Azul de Sri Lanka, una especie emblemática de Sinharaja."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lugares que visitará",
+        "places": {
+          "birds": {
+            "title": "Aves",
+            "description": "El Bosque Lluvioso de Sinharaja en Sri Lanka es reconocido por sus especies de aves únicas y diversas, muchas de las cuales son endémicas de la isla, convirtiéndolo en un paraíso para observadores de aves y conservacionistas. A continuación se muestran algunas de las aves que presenciará: Urraca Azul de Sri Lanka, Cálao Gris, Malkoha de Cara Roja, Zorzal Escamoso, Paloma de Bosque, Bulbul de Oreja Amarilla, Papamoscas Azul Oscuro."
+          },
+          "mammals": {
+            "title": "Mamíferos",
+            "description": "El Bosque Lluvioso de Sinharaja cuenta con un rico tapiz de vida mamífera, con muchas especies que se encuentran exclusivamente en Sri Lanka, ofreciendo una experiencia cautivadora para los entusiastas de la vida silvestre."
+          },
+          "reptiles": {
+            "title": "Reptiles",
+            "description": "El Bosque Lluvioso de Sinharaja es un tesoro de diversidad reptiliana, albergando una gama de especies que han hecho de esta joya de Sri Lanka su hogar exclusivo."
+          },
+          "rainforestReserve": {
+            "title": "Reserva del Bosque Lluvioso de Sinharaja",
+            "description": "Debido a la densa vegetación, el avistamiento de animales es un desafío. Este tipo de atmósfera es un verdadero placer para los entusiastas de la vida silvestre que esperan ansiosamente viajar profundamente en los bosques en busca de vida silvestre rara."
+          }
+        }
+      }
     },
     "udawalaweNationalParkDayTour": {
       "title": "Excursión parque nacional Udawalawe",
       "location": "Udawalawe",
-      "description": "Este parque es el tercer parque más visitado en toda Sri Lanka y presenta a los visitantes una fusión de flora y fauna. Manadas de elefantes, búfalos, ciervos…"
+      "description": "Este parque es el tercer parque más visitado en toda Sri Lanka y presenta a los visitantes una fusión de flora y fauna. Manadas de elefantes, búfalos, ciervos…",
+      "introDescription": "Este parque es el tercer parque más visitado en toda Sri Lanka y presenta a los visitantes una fusión de flora y fauna. Manadas de elefantes, búfalos, ciervos y diversas especies de aves hacen de esto un paraíso para los entusiastas de la vida silvestre.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "El Parque Nacional Udawalawe es el tercer parque más visitado en toda Sri Lanka y presenta a los visitantes una fusión de flora y fauna. El parque es reconocido por sus grandes manadas de elefantes, búfalos, ciervos y diversas especies de aves. Esta excursión de un día ofrece una experiencia inolvidable de safari de vida silvestre en uno de los parques nacionales más accesibles y ricos en vida silvestre de Sri Lanka.",
+        "parkHighlightsTitle": "Destacados del Parque y Vida Silvestre",
+        "highlights": {
+          "elephants": "Manadas de Elefantes: Udawalawe es famoso por sus grandes poblaciones de elefantes, ofreciendo excelentes oportunidades para observar estas majestuosas criaturas en su hábitat natural.",
+          "wildlife": "Vida Silvestre Diversa: Aviste búfalos de agua, ciervos manchados, ciervos sambar, jabalíes y varios otros mamíferos en todo el parque.",
+          "birds": "Observación de Aves: El parque alberga más de 180 especies de aves, incluidas aves endémicas y migratorias, convirtiéndolo en un paraíso para los entusiastas de las aves.",
+          "reservoir": "Embalse de Udawalawe: El parque rodea el Embalse de Udawalawe, creando un ecosistema único que atrae diversas especies de vida silvestre.",
+          "safari": "Experiencia de Safari en Jeep: Disfrute de un emocionante safari en jeep a través del terreno variado del parque, desde pastizales hasta bosques de matorrales.",
+          "accessibility": "Fácil Accesibilidad: Ubicado a solo 180 km de Colombo, Udawalawe es fácilmente accesible y perfecto para una excursión de un día.",
+          "conservation": "Éxito en la Conservación: El parque juega un papel crucial en la conservación de elefantes y es el hogar del Hogar de Tránsito de Elefantes de Udawalawe."
+        }
+      },
+      "cards": {
+        "elephantSafari": {
+          "title": "Safari de Elefantes",
+          "description": "Experimente encuentros cercanos con elefantes salvajes en su hábitat natural en el Parque Nacional Udawalawe. Sea testigo de estas majestuosas criaturas mientras deambulan libremente, se bañan en agujeros de agua e interactúan con sus manadas."
+        },
+        "wildlifeSpotting": {
+          "title": "Avistamiento de Vida Silvestre",
+          "description": "Aviste diversas especies de vida silvestre, incluyendo elefantes, búfalos de agua, ciervos manchados, ciervos sambar, jabalíes y más de 180 especies de aves. El parque ofrece excelentes oportunidades para fotografía de vida silvestre y observación de aves."
+        }
+      }
     },
     "whaleWatchingDayTour": {
       "title": "Avistamiento de ballenas",
       "location": "Mirissa",
-      "description": "Sri Lanka es uno de los mejores destinos para avistamiento de ballenas en Asia. Los cachalotes y las ballenas azules son una ocurrencia común frente a la costa sur…"
+      "description": "Sri Lanka es uno de los mejores destinos para avistamiento de ballenas en Asia. Los cachalotes y las ballenas azules son una ocurrencia común frente a la costa sur…",
+      "introDescription": "Sri Lanka es uno de los mejores destinos para avistamiento de ballenas en Asia. Los cachalotes y las ballenas azules son una ocurrencia común frente a la costa sur, particularmente alrededor de Mirissa. Esta excursión de un día ofrece una experiencia inolvidable para presenciar estos magníficos gigantes marinos en su hábitat natural. La mejor época para el avistamiento de ballenas es de noviembre a abril, cuando las condiciones del océano son ideales y los avistamientos de ballenas son más frecuentes.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Sri Lanka es uno de los mejores destinos para avistamiento de ballenas en Asia. Los cachalotes y las ballenas azules son una ocurrencia común frente a la costa sur, particularmente alrededor de Mirissa. Esta excursión de un día ofrece una experiencia inolvidable para presenciar estos magníficos gigantes marinos en su hábitat natural. La mejor época para el avistamiento de ballenas es de noviembre a abril, cuando las condiciones del océano son ideales y los avistamientos de ballenas son más frecuentes."
+      }
     },
     "yalaNationalParkDayTour": {
       "title": "Excursión parque nacional Yala",
-      "location": "Parque Nacional Yala",
-      "description": "¿Alguna vez ha estado en un safari en una jungla que está gobernada por los leopardos? ¡El Parque Nacional Yala es su respuesta! Con 130,000 hectáreas de paisaje…"
+      "location": "Yala",
+      "description": "¿Alguna vez ha estado en un safari en una jungla que está gobernada por los leopardos? ¡El Parque Nacional Yala es su respuesta! Con 130,000 hectáreas de paisaje…",
+      "introDescription": "¿Alguna vez ha estado en un safari en una jungla que está gobernada por los leopardos? ¡El Parque Nacional Yala es su respuesta! Con 130,000 hectáreas de paisaje, Yala es el parque nacional más famoso de Sri Lanka y tiene la mayor densidad de leopardos del mundo. Esta excursión de un día ofrece una oportunidad increíble para avistar leopardos, elefantes, osos perezosos, cocodrilos y una amplia variedad de especies de aves en su hábitat natural.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "¿Alguna vez ha estado en un safari en una jungla que está gobernada por los leopardos? ¡El Parque Nacional Yala es su respuesta! Con 130,000 hectáreas de paisaje, Yala es el parque nacional más famoso de Sri Lanka y tiene la mayor densidad de leopardos del mundo. Esta excursión de un día ofrece una oportunidad increíble para avistar leopardos, elefantes, osos perezosos, cocodrilos y una amplia variedad de especies de aves en su hábitat natural."
+      }
     },
     "wilpattuNationalParkDayTour": {
       "title": "Excursión parque nacional Wilpattu",
-      "location": "Parque Nacional Wilpattu",
-      "description": "Para su excursión de un día al Parque Nacional Wilpattu, será llevado en un safari en jeep alrededor del parque para avistar animales salvajes de Sri Lanka como elefantes, chacales, osos perezosos, leopardos"
+      "location": "Wilpattu",
+      "description": "Para su excursión de un día al Parque Nacional Wilpattu, será llevado en un safari en jeep alrededor del parque para avistar animales salvajes de Sri Lanka como elefantes, chacales, osos perezosos, leopardos",
+      "introDescription": "Para su excursión de un día al Parque Nacional Wilpattu, será llevado en un safari en jeep alrededor del parque para avistar animales salvajes de Sri Lanka como elefantes, chacales, osos perezosos y leopardos. Wilpattu es el parque nacional más grande y uno de los más antiguos de Sri Lanka, conocido por sus únicos 'willus' (lagos naturales) y vida silvestre diversa. El parque ofrece una experiencia de safari auténtica con oportunidades de ver leopardos, elefantes y muchas otras especies en su hábitat natural.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "Para su excursión de un día al Parque Nacional Wilpattu, será llevado en un safari en jeep alrededor del parque para avistar animales salvajes de Sri Lanka como elefantes, chacales, osos perezosos y leopardos. Wilpattu es el parque nacional más grande y uno de los más antiguos de Sri Lanka, conocido por sus únicos 'willus' (lagos naturales) y vida silvestre diversa. El parque ofrece una experiencia de safari auténtica con oportunidades de ver leopardos, elefantes y muchas otras especies en su hábitat natural."
+      }
     }
   },
   "tailorMadeTours": {
@@ -1492,16 +1830,25 @@
       "validation": {
         "titleRequired": "Por favor seleccione un título",
         "fullNameRequired": "Por favor ingrese su nombre completo",
+        "fullNameMinLength": "El nombre completo debe tener al menos 3 caracteres",
         "nationalityRequired": "Por favor ingrese su nacionalidad",
         "emailRequired": "Por favor ingrese su dirección de correo electrónico",
         "emailInvalid": "Por favor ingrese una dirección de correo electrónico válida",
         "phoneRequired": "Por favor ingrese su número de teléfono",
+        "phoneInvalid": "Por favor ingrese un número de teléfono válido (7-20 dígitos, + opcional, espacios, guiones o paréntesis)",
         "dateRequired": "Por favor seleccione una fecha",
+        "dateInvalid": "Por favor ingrese una fecha de viaje válida",
+        "dateInPast": "La fecha de viaje no puede estar en el pasado",
         "nightsRequired": "Por favor ingrese el número de noches",
+        "nightsInvalidNumber": "El número de noches debe ser un número válido",
         "nightsInvalid": "El número de noches debe ser al menos 1",
+        "nightsTooHigh": "El número de noches parece demasiado alto, por favor contáctenos directamente para estancias prolongadas",
         "adultsRequired": "Por favor ingrese el número de adultos",
+        "adultsInvalidNumber": "El número de adultos debe ser un número válido",
         "adultsInvalid": "El número de adultos debe ser al menos 1",
+        "adultsTooHigh": "El número de adultos parece demasiado alto, por favor contáctenos directamente para grupos grandes",
         "accommodationRequired": "Por favor seleccione un tipo de alojamiento",
+        "specialNotesTooLong": "Las notas especiales deben tener menos de 1000 caracteres",
         "hearAboutUsRequired": "Por favor seleccione cómo se enteró de nosotros",
         "pleaseFillAllFields": "Por favor complete todos los campos obligatorios antes de enviar."
       },

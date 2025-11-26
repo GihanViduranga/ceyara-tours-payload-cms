@@ -1454,66 +1454,6 @@
           }
         }
       }
-    },
-    "hotAirBallooningDayTour": {
-      "title": "Hot Air Ballooning Day Tour",
-      "location": "Habarana / Sigiriya / Dambulla",
-      "description": "Enjoy an experience of a lifetime as you feel the adrenaline rush while drifting off over breathtaking views of the tropical paradise of Sri Lanka."
-    },
-    "kandyDayTour": {
-      "title": "Kandy Day Tour",
-      "location": "Kandy City",
-      "description": "Kandy, more popularly known as the hill capital of Sri Lanka, is an attractive tourist destination. Its history dates back to the 15th century…"
-    },
-    "kithulgalaWhiteWaterRafting": {
-      "title": "Kithulgala White Water Rafting",
-      "location": "Kithulgala",
-      "description": "The town of Kitulgala is where this tour will take you for a day filled with extreme adventure. Kitulgala is a small, yet beautiful town located in a wet zone rain forest…"
-    },
-    "littleEnglandDayTour": {
-      "title": "Little England Day Tour",
-      "location": "Nuwara Eliya",
-      "description": "Nuwara Eliya, also known as Sri Lanka's \"Little England\", is the prime hill resort of the country. At a height of approximately 2000m above sea level…"
-    },
-    "negomboLagoonFishingDayTour": {
-      "title": "Negombo Lagoon Fishing Day Tour",
-      "location": "Negombo",
-      "description": "Along the West Coast of Sri Lanka is the friendly city of Negombo, one of the oldest fishing towns in the country. In addition to its centuries-old fishing industry…"
-    },
-    "polonnaruwaDayTour": {
-      "title": "Polonnaruwa Day Tour",
-      "location": "Polonnaruwa",
-      "description": "Being the second-largest kingdom in Sri Lanka, the ancient city of Polonnaruwa has much in store for archaeologists, history lovers…"
-    },
-    "sigiriyaDambullaDayTour": {
-      "title": "Sigiriya & Dambulla Day Tour",
-      "location": "Sigiriya & Dambulla",
-      "description": "Sigiriya, an ancient palace, was once nominated as the 8th wonder of the world. Today, Sigiriya and Dambulla are a UNESCO recognized heritage site and a major tourist attraction."
-    },
-    "sinharajaDayTour": {
-      "title": "Sinharaja Day Tour",
-      "location": "Sinharaja Rainforest",
-      "description": "UNESCO World Heritage site since 1988. Currently, the reserve spans 8864 hectares and the country plans to quadruple the size of the area to respect the ecological significance of the region."
-    },
-    "udawalaweNationalParkDayTour": {
-      "title": "Udawalawe National Park Day Tour",
-      "location": "Udawalawe",
-      "description": "This park is the third most visited park in all of Sri Lanka and presents visitors with a fusion of flora and fauna. Herds of elephants, buffalos, deer…"
-    },
-    "whaleWatchingDayTour": {
-      "title": "Whale Watching Day Tour",
-      "location": "Mirissa",
-      "description": "Sri Lanka is one of the best destinations for whale watching in Asia. Sperm Whales and Blue Whales are a common occurrence off the southern coast…"
-    },
-    "yalaNationalParkDayTour": {
-      "title": "Yala National Park Day Tour",
-      "location": "Yala National Park",
-      "description": "Have you ever been on a safari in a jungle that is ruled by the leopards? The Yala National Park is your answer! With 130,000 hectares of landscape…"
-    },
-    "wilpattuNationalParkDayTour": {
-      "title": "Wilpattu National Park Day Tour",
-      "location": "Wilpattu National Park",
-      "description": "For your day tour of Wilpattu National Park, you will be taken on a jeep safari around the park to spot Sri Lanka's wild animals such as elephants, jackal, sloth bear, leopard"
     }
   },
   "tailorMadeTours": {

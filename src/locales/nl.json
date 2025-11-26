@@ -1335,13 +1335,69 @@
     },
     "geoffreyBawaWorksSriLanka": {
       "title": "Geoffrey Bawa werken in Sri Lanka",
-      "location": "Colombo, Zuidkust",
-      "description": "Toen de overleden Geoffrey Manning Bawa de wereld van architectuur betrad, maakte hij zijn stempel met elk ontwerp dat hij produceerde. Het verkennen van modernisme en zijn culturele implicaties…"
+      "location": "Various Locations",
+      "description": "Toen de overleden Geoffrey Manning Bawa de wereld van architectuur betrad, maakte hij zijn stempel met elk ontwerp dat hij produceerde. Het verkennen van modernisme en zijn culturele implicaties…",
+      "introDescription": "Toen de overleden Geoffrey Manning Bawa de wereld van architectuur betrad, maakte hij zijn stempel met elk ontwerp dat hij produceerde. Het verkennen van modernisme en zijn culturele implicaties, creëerde Bawa een unieke architectonische taal die naadloos tropische landschappen combineerde met hedendaagse ontwerpprincipes. Zijn werken in heel Sri Lanka staan als getuigenissen van zijn visie op architectuur die de natuur respecteert, lokale materialen viert en ruimtes creëert die ademen met hun omgeving.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Toen de overleden Geoffrey Manning Bawa de wereld van architectuur betrad, maakte hij zijn stempel met elk ontwerp dat hij produceerde. Het verkennen van modernisme en zijn culturele implicaties, creëerde Bawa een unieke architectonische taal die naadloos tropische landschappen combineerde met hedendaagse ontwerpprincipes. Zijn werken in heel Sri Lanka staan als getuigenissen van zijn visie op architectuur die de natuur respecteert, lokale materialen viert en ruimtes creëert die ademen met hun omgeving.",
+        "architecturalLegacyTitle": "Het architectonische erfgoed van Geoffrey Bawa",
+        "architecturalPoints": {
+          "tropicalModernism": "Tropisch Modernisme: Bawa was een pionier in een stijl die modernistische principes combineerde met tropische gevoeligheden, waardoor gebouwen ontstonden die reageren op klimaat, landschap en cultuur.",
+          "integrationWithNature": "Integratie met de Natuur: Zijn ontwerpen vervagen de grenzen tussen binnen- en buitenruimtes, met gebruik van binnenplaatsen, veranda's en open paviljoens om architectuur te verbinden met de natuurlijke wereld.",
+          "localMaterials": "Lokale Materialen: Bawa was een voorstander van het gebruik van lokale materialen en traditionele bouwtechnieken, waarbij hij ze aanpaste aan moderne behoeften terwijl culturele authenticiteit behouden bleef.",
+          "landscapeArchitecture": "Landschapsarchitectuur: Naast gebouwen was Bawa een meester in landschapsarchitectuur, waarbij hij tuinen en buitenruimtes creëerde die op zichzelf kunstwerken zijn.",
+          "internationalRecognition": "Internationale Erkenning: Zijn werk heeft architecten wereldwijd beïnvloed en Sri Lanka gevestigd als een belangrijk centrum van tropische architectuur.",
+          "adaptiveReuse": "Adaptief Hergebruik: Bawa excelleerde in het transformeren van historische gebouwen, waarbij hij hun erfgoed respecteerde terwijl hij ze aanpaste voor hedendaags gebruik.",
+          "sustainableDesign": "Duurzaam Ontwerp: Lang voordat duurzaamheid een modewoord werd, toonden Bawa's ontwerpen milieugevoeligheid door passieve koeling, natuurlijke ventilatie en minimale milieueffecten.",
+          "culturalContext": "Culturele Context: Elk van Bawa's projecten weerspiegelt een diep begrip van de Sri Lankaanse cultuur, geschiedenis en levenswijze, waardoor architectuur ontstaat die zowel modern is als diep geworteld in de plaats."
+        }
+      },
+      "placesCarousel": {
+        "title": "Plaatsen die u zult bezoeken",
+        "places": {
+          "lunuganga": {
+            "title": "Lunuganga Tuin",
+            "description": "Lunuganga is Geoffrey Bawa's landgoed en tuin, een meesterwerk van tropisch landschapsontwerp dat zijn visie toont van het combineren van architectuur met natuur."
+          },
+          "numberEleven": {
+            "title": "Nummer Elf",
+            "description": "Nummer Elf is Bawa's residentie in Colombo, nu een museum dat zijn persoonlijke collectie en ontwerpfilosofie toont."
+          },
+          "parliament": {
+            "title": "Parlementsgebouw",
+            "description": "Het Sri Lankaanse Parlementsgebouw in Kotte is een van Bawa's belangrijkste publieke werken, wat zijn meesterschap in monumentale architectuur weerspiegelt."
+          },
+          "paradiseRoadGallery": {
+            "title": "Paradise Road Gallery Café",
+            "description": "Een levendige transformatie van Bawa's voormalige kantoor garage, nu een gevierd café dat zijn architectonische esthetiek combineert met hedendaagse kunst en design."
+          },
+          "ratnasivaratnamHouse": {
+            "title": "Het Ratnasivaratnam Huis",
+            "description": "Een baanbrekend binnenplaats huis in Colombo, gevierd om zijn ingenieuze gebruik van een smal stedelijk perceel om een lichtgevuld, privé gezinswoning te creëren."
+          },
+          "steelCorporation": {
+            "title": "Steel Corporation Kantoren en Woningen",
+            "description": "Een robuust industrieel complex waar moderne vormen verzacht worden door aangelegde binnenplaatsen en passieve koelingstechnieken, waardoor een menselijke werkomgeving ontstaat."
+          }
+        }
+      }
     },
     "hotAirBallooningDayTour": {
       "title": "Heeteluchtballon dagtour",
-      "location": "Habarana / Sigiriya / Dambulla",
-      "description": "Geniet van een ervaring van een leven terwijl u de adrenaline voelt terwijl u zweeft boven adembenemende uitzichten op het tropische paradijs van Sri Lanka."
+      "location": "Dambulla",
+      "description": "Geniet van een ervaring van een leven terwijl u de adrenaline voelt terwijl u zweeft boven adembenemende uitzichten op het tropische paradijs van Sri Lanka.",
+      "introDescription": "Geniet van een ervaring van een leven terwijl u de adrenaline voelt terwijl u zweeft boven adembenemende uitzichten op het tropische paradijs van Sri Lanka.",
+      "buttons": {
+        "exploreMore": "MEER ONTDEKKEN",
+        "bookThisTour": "DEZE TOUR BOEKEN"
+      },
+      "detailedDescription": {
+        "intro": "Ervaar de magie van zweven boven de adembenemende landschappen van Sri Lanka in een hete luchtballon. Dit onvergetelijke avontuur biedt panoramische uitzichten op oude ruïnes, weelderige bossen en pittoreske platteland terwijl u zachtjes door de ochtendlucht drijft."
+      }
     },
     "kandyDayTour": {
       "title": "Kandy dagtour",
@@ -1774,16 +1830,25 @@
       "validation": {
         "titleRequired": "Selecteer een titel",
         "fullNameRequired": "Voer uw volledige naam in",
+        "fullNameMinLength": "Volledige naam moet minimaal 3 tekens lang zijn",
         "nationalityRequired": "Voer uw nationaliteit in",
         "emailRequired": "Voer uw e-mailadres in",
         "emailInvalid": "Voer een geldig e-mailadres in",
         "phoneRequired": "Voer uw telefoonnummer in",
+        "phoneInvalid": "Voer een geldig telefoonnummer in (7-20 cijfers, optioneel +, spaties, streepjes of haakjes)",
         "dateRequired": "Selecteer een datum",
+        "dateInvalid": "Voer een geldige reisdatum in",
+        "dateInPast": "Reisdatum kan niet in het verleden liggen",
         "nightsRequired": "Voer het aantal nachten in",
+        "nightsInvalidNumber": "Aantal nachten moet een geldig nummer zijn",
         "nightsInvalid": "Het aantal nachten moet minimaal 1 zijn",
+        "nightsTooHigh": "Aantal nachten lijkt te hoog, neem rechtstreeks contact met ons op voor langere verblijven",
         "adultsRequired": "Voer het aantal volwassenen in",
+        "adultsInvalidNumber": "Aantal volwassenen moet een geldig nummer zijn",
         "adultsInvalid": "Het aantal volwassenen moet minimaal 1 zijn",
+        "adultsTooHigh": "Aantal volwassenen lijkt te hoog, neem rechtstreeks contact met ons op voor grote groepen",
         "accommodationRequired": "Selecteer een accommodatietype",
+        "specialNotesTooLong": "Speciale notities moeten minder dan 1000 tekens bevatten",
         "hearAboutUsRequired": "Selecteer hoe u van ons heeft gehoord",
         "pleaseFillAllFields": "Vul alle verplichte velden in voordat u verzendt."
       },

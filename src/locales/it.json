@@ -1335,13 +1335,69 @@
     },
     "geoffreyBawaWorksSriLanka": {
       "title": "Opere di Geoffrey Bawa in Sri Lanka",
-      "location": "Colombo, Costa Sud",
-      "description": "Quando il defunto Geoffrey Manning Bawa entrò nel mondo dell'architettura, lasciò il segno con ogni design che produsse. Esplorando il modernismo e le sue implicazioni culturali…"
+      "location": "Various Locations",
+      "description": "Quando il defunto Geoffrey Manning Bawa entrò nel mondo dell'architettura, lasciò il segno con ogni design che produsse. Esplorando il modernismo e le sue implicazioni culturali…",
+      "introDescription": "Quando il defunto Geoffrey Manning Bawa entrò nel mondo dell'architettura, lasciò il segno con ogni design che produsse. Esplorando il modernismo e le sue implicazioni culturali, Bawa creò un linguaggio architettonico unico che fondeva perfettamente paesaggi tropicali con principi di design contemporaneo. Le sue opere in tutto lo Sri Lanka sono testimonianze della sua visione dell'architettura che rispetta la natura, celebra i materiali locali e crea spazi che respirano con il loro ambiente.",
+      "buttons": {
+        "exploreMore": "SCOPRI DI PIÙ",
+        "bookThisTour": "PRENOTA QUESTO TOUR"
+      },
+      "detailedDescription": {
+        "intro": "Quando il defunto Geoffrey Manning Bawa entrò nel mondo dell'architettura, lasciò il segno con ogni design che produsse. Esplorando il modernismo e le sue implicazioni culturali, Bawa creò un linguaggio architettonico unico che fondeva perfettamente paesaggi tropicali con principi di design contemporaneo. Le sue opere in tutto lo Sri Lanka sono testimonianze della sua visione dell'architettura che rispetta la natura, celebra i materiali locali e crea spazi che respirano con il loro ambiente.",
+        "architecturalLegacyTitle": "L'Eredità Architettonica di Geoffrey Bawa",
+        "architecturalPoints": {
+          "tropicalModernism": "Modernismo Tropicale: Bawa ha aperto la strada a uno stile che combinava principi modernisti con sensibilità tropicali, creando edifici che rispondono al clima, al paesaggio e alla cultura.",
+          "integrationWithNature": "Integrazione con la Natura: I suoi design sfumano i confini tra spazi interni ed esterni, utilizzando cortili, verande e padiglioni aperti per collegare l'architettura con il mondo naturale.",
+          "localMaterials": "Materiali Locali: Bawa ha sostenuto l'uso di materiali locali e tecniche costruttive tradizionali, adattandoli alle esigenze moderne preservando l'autenticità culturale.",
+          "landscapeArchitecture": "Architettura del Paesaggio: Oltre agli edifici, Bawa era un maestro dell'architettura del paesaggio, creando giardini e spazi esterni che sono opere d'arte a sé stanti.",
+          "internationalRecognition": "Riconoscimento Internazionale: Il suo lavoro ha influenzato architetti in tutto il mondo e ha stabilito lo Sri Lanka come un importante centro di architettura tropicale.",
+          "adaptiveReuse": "Riuso Adattivo: Bawa eccelleva nel trasformare edifici storici, rispettando il loro patrimonio mentre li adattava per uso contemporaneo.",
+          "sustainableDesign": "Design Sostenibile: Molto prima che la sostenibilità diventasse una parola d'ordine, i design di Bawa dimostravano sensibilità ambientale attraverso raffreddamento passivo, ventilazione naturale e impatto ambientale minimo.",
+          "culturalContext": "Contesto Culturale: Ogni progetto di Bawa riflette una profonda comprensione della cultura, della storia e dello stile di vita dello Sri Lanka, creando un'architettura che è sia moderna che profondamente radicata nel luogo."
+        }
+      },
+      "placesCarousel": {
+        "title": "Luoghi che visiterai",
+        "places": {
+          "lunuganga": {
+            "title": "Giardino Lunuganga",
+            "description": "Lunuganga è la tenuta di campagna e il giardino di Geoffrey Bawa, un capolavoro di design del paesaggio tropicale che mostra la sua visione di fondere l'architettura con la natura."
+          },
+          "numberEleven": {
+            "title": "Numero Undici",
+            "description": "Numero Undici è la residenza di Bawa a Colombo, ora un museo che mostra la sua collezione personale e la filosofia del design."
+          },
+          "parliament": {
+            "title": "Edificio del Parlamento",
+            "description": "L'Edificio del Parlamento dello Sri Lanka a Kotte è una delle opere pubbliche più significative di Bawa, che riflette la sua maestria nell'architettura monumentale."
+          },
+          "paradiseRoadGallery": {
+            "title": "Paradise Road Gallery Café",
+            "description": "Una vivace conversione del garage dell'ex ufficio di Bawa, ora un rinomato caffè che fonde la sua estetica architettonica con arte e design contemporanei."
+          },
+          "ratnasivaratnamHouse": {
+            "title": "La Casa Ratnasivaratnam",
+            "description": "Una casa con cortile pionieristica a Colombo, celebrata per il suo uso ingegnoso di un lotto urbano stretto per creare una casa familiare privata piena di luce."
+          },
+          "steelCorporation": {
+            "title": "Uffici e Alloggi della Steel Corporation",
+            "description": "Un complesso industriale robusto dove le forme moderne sono addolcite da cortili paesaggistici e tecniche di raffreddamento passivo, creando un ambiente di lavoro umano."
+          }
+        }
+      }
     },
     "hotAirBallooningDayTour": {
       "title": "Gita in mongolfiera",
-      "location": "Habarana / Sigiriya / Dambulla",
-      "description": "Godetevi un'esperienza unica nella vita mentre sentite l'adrenalina mentre galleggiate sopra viste mozzafiato del paradiso tropicale dello Sri Lanka."
+      "location": "Dambulla",
+      "description": "Godetevi un'esperienza unica nella vita mentre sentite l'adrenalina mentre galleggiate sopra viste mozzafiato del paradiso tropicale dello Sri Lanka.",
+      "introDescription": "Godetevi un'esperienza unica nella vita mentre sentite l'adrenalina mentre galleggiate sopra viste mozzafiato del paradiso tropicale dello Sri Lanka.",
+      "buttons": {
+        "exploreMore": "SCOPRI DI PIÙ",
+        "bookThisTour": "PRENOTA QUESTO TOUR"
+      },
+      "detailedDescription": {
+        "intro": "Vivete la magia di galleggiare sopra i paesaggi mozzafiato dello Sri Lanka in una mongolfiera. Questa avventura indimenticabile offre viste panoramiche di antiche rovine, foreste lussureggianti e pittoresche campagne mentre galleggiate dolcemente nel cielo mattutino."
+      }
     },
     "kandyDayTour": {
       "title": "Gita di un giorno a Kandy",
@@ -1774,16 +1830,25 @@
       "validation": {
         "titleRequired": "Si prega di selezionare un titolo",
         "fullNameRequired": "Si prega di inserire il nome completo",
+        "fullNameMinLength": "Il nome completo deve contenere almeno 3 caratteri",
         "nationalityRequired": "Si prega di inserire la nazionalità",
         "emailRequired": "Si prega di inserire l'indirizzo email",
         "emailInvalid": "Si prega di inserire un indirizzo email valido",
         "phoneRequired": "Si prega di inserire il numero di telefono",
+        "phoneInvalid": "Si prega di inserire un numero di telefono valido (7-20 cifre, + opzionale, spazi, trattini o parentesi)",
         "dateRequired": "Si prega di selezionare una data",
+        "dateInvalid": "Si prega di inserire una data di viaggio valida",
+        "dateInPast": "La data di viaggio non può essere nel passato",
         "nightsRequired": "Si prega di inserire il numero di notti",
+        "nightsInvalidNumber": "Il numero di notti deve essere un numero valido",
         "nightsInvalid": "Il numero di notti deve essere almeno 1",
+        "nightsTooHigh": "Il numero di notti sembra troppo alto, si prega di contattarci direttamente per soggiorni prolungati",
         "adultsRequired": "Si prega di inserire il numero di adulti",
+        "adultsInvalidNumber": "Il numero di adulti deve essere un numero valido",
         "adultsInvalid": "Il numero di adulti deve essere almeno 1",
+        "adultsTooHigh": "Il numero di adulti sembra troppo alto, si prega di contattarci direttamente per grandi gruppi",
         "accommodationRequired": "Si prega di selezionare un tipo di alloggio",
+        "specialNotesTooLong": "Le note speciali devono contenere meno di 1000 caratteri",
         "hearAboutUsRequired": "Si prega di selezionare come hai saputo di noi",
         "pleaseFillAllFields": "Si prega di compilare tutti i campi obbligatori prima di inviare."
       },

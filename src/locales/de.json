@@ -1389,63 +1389,401 @@
     },
     "hotAirBallooningDayTour": {
       "title": "Heißluftballon Tagestour",
-      "location": "Habarana / Sigiriya / Dambulla",
-      "description": "Genießen Sie ein einmaliges Erlebnis, während Sie den Adrenalinrausch spüren und über atemberaubende Aussichten des tropischen Paradieses Sri Lanka schweben."
+      "location": "Dambulla",
+      "description": "Genießen Sie ein einmaliges Erlebnis, während Sie den Adrenalinrausch spüren und über atemberaubende Aussichten des tropischen Paradieses Sri Lanka schweben.",
+      "introDescription": "Genießen Sie ein einmaliges Erlebnis, während Sie den Adrenalinrausch spüren und über atemberaubende Aussichten des tropischen Paradieses Sri Lanka schweben.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Erleben Sie die Magie des Schwebens über Sri Lankas atemberaubende Landschaften in einem Heißluftballon. Dieses unvergessliche Abenteuer bietet Panoramablicke auf antike Ruinen, üppige Wälder und malerische Landschaften, während Sie sanft durch den Morgenhimmel schweben."
+      }
     },
     "kandyDayTour": {
       "title": "Kandy Tagestour",
-      "location": "Kandy Stadt",
-      "description": "Kandy, besser bekannt als die Hügelhauptstadt Sri Lankas, ist ein attraktives Touristenziel. Seine Geschichte reicht bis ins 15. Jahrhundert zurück…"
+      "location": "Kandy",
+      "description": "Kandy, besser bekannt als die Hügelhauptstadt Sri Lankas, ist ein attraktives Touristenziel. Seine Geschichte reicht bis ins 15. Jahrhundert zurück…",
+      "introDescription": "Kandy, besser bekannt als die Hügelhauptstadt Sri Lankas, ist ein attraktives Touristenziel. Seine Geschichte reicht bis ins 15. Jahrhundert zurück, als es als letzte Hauptstadt der Ära der alten Könige von Sri Lanka gegründet wurde. Die Stadt liegt in den Hügeln des Kandy-Plateaus, das Gebiete tropischer Plantagen, hauptsächlich Tee, durchquert. Kandy ist sowohl eine administrative als auch religiöse Stadt und auch die Hauptstadt der Zentralprovinz.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Kandy, besser bekannt als die Hügelhauptstadt Sri Lankas, ist ein attraktives Touristenziel. Seine Geschichte reicht bis ins 15. Jahrhundert zurück, als es als letzte Hauptstadt der Ära der alten Könige von Sri Lanka gegründet wurde. Die Stadt liegt in den Hügeln des Kandy-Plateaus, das Gebiete tropischer Plantagen, hauptsächlich Tee, durchquert. Kandy ist sowohl eine administrative als auch religiöse Stadt und auch die Hauptstadt der Zentralprovinz.",
+        "historicalProminenceTitle": "Historische Bedeutung von Kandy",
+        "historicalPoints": {
+          "15thCentury": "15. Jahrhundert: Kandy wurde als letzte Hauptstadt der Ära der alten Könige von Sri Lanka gegründet.",
+          "templeOfTheTooth": "Tempel der Zahnreliquie: Der heilige Tempel der Zahnreliquie (Sri Dalada Maligawa) beherbergt die Zahnreliquie des Buddha und ist damit einer der wichtigsten buddhistischen Stätten der Welt.",
+          "unescoHeritage": "UNESCO-Weltkulturerbe: Kandy wurde 1988 zum UNESCO-Weltkulturerbe erklärt und würdigt seine kulturelle und historische Bedeutung.",
+          "kandyanKingdom": "Kandyanisches Königreich: Die Stadt diente als Hauptstadt des Kandyanischen Königreichs, das über 300 Jahre lang erfolgreich europäischen Kolonialmächten widerstand.",
+          "britishColonial": "Britische Kolonialzeit: Kandy fiel 1815 an die Briten und beendete das unabhängige Kandyanische Königreich.",
+          "culturalCenter": "Kulturzentrum: Heute bleibt Kandy ein wichtiges Kulturzentrum, bekannt für seine traditionellen Künste, Handwerke und das jährliche Esala Perahera Festival."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "templeOfTheTooth": {
+            "title": "Tempel der Zahnreliquie",
+            "description": "Der heiligste buddhistische Tempel in Sri Lanka, der die Zahnreliquie des Buddha beherbergt und ein UNESCO-Weltkulturerbe ist."
+          },
+          "kandyLake": {
+            "title": "Kandy See",
+            "description": "Ein wunderschöner künstlicher See, der 1807 vom letzten König von Kandy erbaut wurde und malerische Aussichten und eine friedliche Atmosphäre im Herzen der Stadt bietet."
+          },
+          "royalBotanicalGardens": {
+            "title": "Königliche Botanische Gärten",
+            "description": "Einer der schönsten tropischen Gärten Asiens mit über 4.000 Pflanzenarten, einschließlich seltener Orchideen, Palmen und Heilpflanzen."
+          },
+          "kandyViewPoint": {
+            "title": "Kandy Aussichtspunkt",
+            "description": "Ein Panorama-Aussichtspunkt mit atemberaubenden Ausblicken auf die Stadt Kandy, den See und die umliegenden Hügel."
+          },
+          "kandyMarket": {
+            "title": "Kandy Markt",
+            "description": "Ein lebendiger lokaler Markt, wo Sie das tägliche Leben von Kandy erleben, Gewürze, Früchte und lokales Kunsthandwerk kaufen können."
+          },
+          "bahirawakandaBuddha": {
+            "title": "Bahirawakanda Buddha Statue",
+            "description": "Eine massive weiße Buddha-Statue auf einem Hügel, die Panoramablicke auf Kandy und die umliegenden Berge bietet."
+          },
+          "kandyMuseum": {
+            "title": "Kandy Museum",
+            "description": "Ein Museum, das die Geschichte und Kultur von Kandy zeigt, mit Artefakten aus der Kandyanischen Zeit und der britischen Kolonialzeit."
+          },
+          "udawattekeleSanctuary": {
+            "title": "Udawattekele Heiligtum",
+            "description": "Ein Waldheiligtum in der Nähe des Tempels der Zahnreliquie, das eine Vielzahl von Vögeln, Affen und anderen Wildtieren beherbergt."
+          }
+        }
+      }
     },
     "kithulgalaWhiteWaterRafting": {
       "title": "Kithulgala Wildwasser-Rafting",
-      "location": "Kithulgala",
-      "description": "Die Stadt Kitulgala ist der Ort, an den diese Tour Sie für einen Tag voller extremer Abenteuer führt. Kitulgala ist eine kleine, aber schöne Stadt in einem Regenwaldgebiet der feuchten Zone…"
+      "location": "Kitulgala",
+      "description": "Die Stadt Kitulgala ist der Ort, an den diese Tour Sie für einen Tag voller extremer Abenteuer führt. Kitulgala ist eine kleine, aber schöne Stadt in einem Regenwaldgebiet der feuchten Zone…",
+      "introDescription": "Die Stadt Kitulgala ist der Ort, an den diese Tour Sie für einen Tag voller extremer Abenteuer führt. Kitulgala ist eine kleine, aber schöne Stadt in einem Regenwaldgebiet der feuchten Zone. Dieses malerische Ziel ist berühmt dafür, der Drehort des klassischen Films \"Die Brücke am Kwai\" zu sein und bietet eines der besten Wildwasser-Rafting-Erlebnisse in Sri Lanka.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Die Stadt Kitulgala ist der Ort, an den diese Tour Sie für einen Tag voller extremer Abenteuer führt. Kitulgala ist eine kleine, aber schöne Stadt in einem Regenwaldgebiet der feuchten Zone. Dieses malerische Ziel ist berühmt dafür, der Drehort des klassischen Films \"Die Brücke am Kwai\" zu sein und bietet eines der besten Wildwasser-Rafting-Erlebnisse in Sri Lanka.",
+        "adventureExperienceTitle": "Abenteuer-Erlebnis",
+        "adventurePoints": {
+          "raftingExperience": "Wildwasser-Rafting: Erleben Sie den Nervenkitzel, durch Stromschnellen auf dem Kelani-Fluss zu navigieren, einem der aufregendsten Rafting-Ziele Sri Lankas mit Stromschnellen von Grad 2 bis Grad 3.",
+          "scenicBeauty": "Malerische Schönheit: Umgeben von üppigem Regenwald, kaskadierenden Wasserfällen und unberührten Naturlandschaften bietet Kitulgala atemberaubende Aussichten während Ihres Abenteuers.",
+          "safetyStandards": "Sicherheitsstandards: Alle Rafting-Aktivitäten werden mit professionellen Guides, Sicherheitsausrüstung und internationalen Sicherheitsstandards durchgeführt, um ein sicheres, aber aufregendes Erlebnis zu gewährleisten.",
+          "suitableForAll": "Geeignet für alle Niveaus: Ob Sie Anfänger oder erfahrener Rafter sind, die Stromschnellen sind für verschiedene Könnensstufen geeignet und damit für Abenteuer-Enthusiasten aller Altersgruppen zugänglich.",
+          "otherActivities": "Zusätzliche Aktivitäten: Neben Rafting bietet Kitulgala Möglichkeiten für Dschungel-Trekking, Vogelbeobachtung und Erkundung der reichen Biodiversität des Regenwaldes.",
+          "filmLocation": "Film-Location: Besuchen Sie die ikonische Brücken-Location, an der der Oscar-prämierte Film \"Die Brücke am Kwai\" gedreht wurde, was historische Bedeutung zu Ihrem Abenteuer hinzufügt."
+        }
+      }
     },
     "littleEnglandDayTour": {
       "title": "Kleines England Tagestour",
       "location": "Nuwara Eliya",
-      "description": "Nuwara Eliya, auch bekannt als Sri Lankas \"Kleines England\", ist das wichtigste Hügelresort des Landes. Auf einer Höhe von etwa 2000m über dem Meeresspiegel…"
+      "description": "Nuwara Eliya, auch bekannt als Sri Lankas \"Kleines England\", ist das wichtigste Hügelresort des Landes. Auf einer Höhe von etwa 2000m über dem Meeresspiegel…",
+      "introDescription": "Nuwara Eliya, auch bekannt als Sri Lankas \"Kleines England\", ist das wichtigste Hügelresort des Landes. Auf einer Höhe von etwa 2000m über dem Meeresspiegel bietet diese charmante Stadt ein kühles Klima, üppige Teeplantagen und eine deutlich britische koloniale Atmosphäre. Die Stadt ist berühmt für ihre schönen Gärten, koloniale Architektur und malerische Landschaften, die der englischen Landschaft ähneln.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Nuwara Eliya, auch bekannt als Sri Lankas \"Kleines England\", ist das wichtigste Hügelresort des Landes. Auf einer Höhe von etwa 2000m über dem Meeresspiegel bietet diese charmante Stadt ein kühles Klima, üppige Teeplantagen und eine deutlich britische koloniale Atmosphäre. Die Stadt ist berühmt für ihre schönen Gärten, koloniale Architektur und malerische Landschaften, die der englischen Landschaft ähneln.",
+        "historicalProminenceTitle": "Historische Bedeutung von Nuwara Eliya",
+        "historicalPoints": {
+          "britishColonial": "Britische Kolonialzeit: Nuwara Eliya wurde im 19. Jahrhundert von den Briten als Hügelstation entwickelt, um der Hitze der Tiefländer zu entkommen und eine \"Kleines England\"-Atmosphäre zu schaffen.",
+          "teaIndustry": "Teeindustrie: Die Region wurde zum Herzstück der Teeindustrie Sri Lankas, mit vielen Teeplantagen, die von britischen Pflanzern gegründet wurden, was sie zu einer der feinsten Teeanbauregionen der Welt macht.",
+          "colonialArchitecture": "Kolonialarchitektur: Die Stadt verfügt über gut erhaltene Kolonialgebäude, darunter das Grand Hotel, das St. Andrew's Hotel und verschiedene Bungalows, die britische Architekturstile widerspiegeln.",
+          "golfCourse": "Golfplatz: Nuwara Eliya beherbergt einen der ältesten Golfplätze Asiens, der 1889 errichtet wurde und zu seinem britischen kolonialen Charme beiträgt.",
+          "climate": "Kühles Klima: Die große Höhe bietet das ganze Jahr über ein gemäßigtes Klima und macht es zu einem perfekten Rückzugsort vor der tropischen Hitze der Küstengebiete.",
+          "touristDestination": "Touristenziel: Heute ist Nuwara Eliya eines der beliebtesten Touristenziele Sri Lankas, bekannt für seine natürliche Schönheit, Teeplantagen und einzigartiges koloniales Erbe."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "gregoryLake": {
+            "title": "Gregory See",
+            "description": "Ein wunderschöner künstlicher See, der Bootsfahrten, Reiten und malerische Aussichten auf die umliegenden Berge und Teeplantagen bietet."
+          },
+          "hakgalaBotanicalGardens": {
+            "title": "Hakgala Botanische Gärten",
+            "description": "Einer der drei botanischen Gärten in Sri Lanka mit einer beeindruckenden Sammlung von Rosen, Farnen und exotischen Pflanzen in einer kühlen Bergumgebung."
+          },
+          "seethaAmmamTemple": {
+            "title": "Seetha Amman Tempel",
+            "description": "Ein Hindu-Tempel, der mit dem Ramayana-Epos verbunden ist, in einer schönen Umgebung mit einem Bach und natürlichen Felsformationen."
+          },
+          "victoriaPark": {
+            "title": "Victoria Park",
+            "description": "Ein gut gepflegter Park im Herzen von Nuwara Eliya, perfekt für gemütliche Spaziergänge und zum Genießen der kühlen Bergluft."
+          },
+          "teaPlantations": {
+            "title": "Teeplantagen",
+            "description": "Besuchen Sie aktive Teeplantagen, um den Teeherstellungsprozess kennenzulernen und frischen Ceylon-Tee zu genießen, während Sie von sanften grünen Hügeln umgeben sind."
+          },
+          "loversLeap": {
+            "title": "Lovers' Leap",
+            "description": "Ein malerischer Wasserfall mit einer romantischen Legende, der schöne Aussichten und eine erfrischende natürliche Umgebung bietet."
+          },
+          "pedroTeaEstate": {
+            "title": "Pedro Teeplantage",
+            "description": "Eine der ältesten und berühmtesten Teeplantagen in Nuwara Eliya, die Fabrikführungen und Teeverkostungen anbietet."
+          },
+          "moonPlains": {
+            "title": "Moon Plains",
+            "description": "Eine einzigartige Hochlandebene mit Panoramablicken auf die umliegenden Berge und Täler, die per Jeep-Safari erreichbar ist."
+          }
+        }
+      }
     },
     "negomboLagoonFishingDayTour": {
       "title": "Negombo Lagune Fischen Tagestour",
       "location": "Negombo",
-      "description": "Entlang der Westküste Sri Lankas liegt die freundliche Stadt Negombo, eine der ältesten Fischerstädte des Landes. Neben ihrer jahrhundertealten Fischereiindustrie…"
+      "description": "Entlang der Westküste Sri Lankas liegt die freundliche Stadt Negombo, eine der ältesten Fischerstädte des Landes. Neben ihrer jahrhundertealten Fischereiindustrie…",
+      "introDescription": "Entlang der Westküste Sri Lankas liegt die freundliche Stadt Negombo, eine der ältesten Fischerstädte des Landes. Neben ihrer jahrhundertealten Fischereiindustrie ist Negombo auch für seine schönen Strände, niederländische Kolonialarchitektur und die berühmte Negombo Lagune bekannt. Diese Tour bietet eine einzigartige Gelegenheit, traditionelle Fischereimethoden zu erleben und die reiche maritime Kultur dieser Küstenstadt zu erkunden.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Entlang der Westküste Sri Lankas liegt die freundliche Stadt Negombo, eine der ältesten Fischerstädte des Landes. Neben ihrer jahrhundertealten Fischereiindustrie ist Negombo auch für seine schönen Strände, niederländische Kolonialarchitektur und die berühmte Negombo Lagune bekannt. Diese Tour bietet eine einzigartige Gelegenheit, traditionelle Fischereimethoden zu erleben und die reiche maritime Kultur dieser Küstenstadt zu erkunden."
+      },
+      "cards": {
+        "negomboLagoon": {
+          "title": "Negombo Lagune",
+          "description": "Lernen Sie traditionelle und moderne Fischereimethoden. Hier sehen Sie die Live-Zubereitung der Meeresfrüchte, die Sie für das Mittagessen ausgewählt haben."
+        },
+        "negomboBeach": {
+          "title": "Negombo Strand",
+          "description": "Entspannen Sie sich am wunderschönen goldenen Sand des Negombo Strands, einem der beliebtesten Strände an der Westküste. Genießen Sie das ruhige Wasser, perfekt zum Schwimmen, und bewundern Sie die atemberaubenden Sonnenuntergangsblicke über den Indischen Ozean."
+        }
+      }
     },
     "polonnaruwaDayTour": {
       "title": "Polonnaruwa Tagestour",
       "location": "Polonnaruwa",
-      "description": "Als zweitgrößtes Königreich in Sri Lanka hat die antike Stadt Polonnaruwa viel für Archäologen und Geschichtsliebhaber zu bieten…"
+      "description": "Als zweitgrößtes Königreich in Sri Lanka hat die antike Stadt Polonnaruwa viel für Archäologen und Geschichtsliebhaber zu bieten…",
+      "introDescription": "Als zweitgrößtes Königreich in Sri Lanka hat die antike Stadt Polonnaruwa viel für Archäologen, Geschichtsliebhaber und Reisende zu bieten, die das reiche kulturelle Erbe der Insel erkunden möchten. Polonnaruwa diente vom 11. bis 13. Jahrhundert n. Chr. als Hauptstadt Sri Lankas und ist heute ein UNESCO-Weltkulturerbe, das gut erhaltene Ruinen antiker Paläste, Tempel und Denkmäler zeigt.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Als zweitgrößtes Königreich in Sri Lanka hat die antike Stadt Polonnaruwa viel für Archäologen, Geschichtsliebhaber und Reisende zu bieten, die das reiche kulturelle Erbe der Insel erkunden möchten. Polonnaruwa diente vom 11. bis 13. Jahrhundert n. Chr. als Hauptstadt Sri Lankas und ist heute ein UNESCO-Weltkulturerbe, das gut erhaltene Ruinen antiker Paläste, Tempel und Denkmäler zeigt.",
+        "historicalProminenceTitle": "Historische Bedeutung von Polonnaruwa",
+        "historicalPoints": {
+          "11thCentury": "11. Jahrhundert n. Chr.: Polonnaruwa wurde nach dem Fall von Anuradhapura zur Hauptstadt Sri Lankas und markierte den Beginn einer neuen Ära in der sri-lankischen Geschichte.",
+          "kingVijayabahu": "König Vijayabahu I.: Vertrieb erfolgreich die Chola-Invasoren und etablierte Polonnaruwa als neue Hauptstadt, was eine Periode großer architektonischer und kultureller Entwicklung einleitete.",
+          "kingParakramabahu": "König Parakramabahu I.: Das goldene Zeitalter von Polonnaruwa, bekannt für umfangreiche Bewässerungsarbeiten, einschließlich des massiven Parakrama Samudra (Meer von Parakrama), und prächtige architektonische Errungenschaften.",
+          "unescoHeritage": "UNESCO-Weltkulturerbe: Polonnaruwa wurde 1982 zum UNESCO-Weltkulturerbe erklärt und würdigt seinen außergewöhnlichen universellen Wert und die gut erhaltenen archäologischen Überreste.",
+          "architecturalAchievements": "Architektonische Errungenschaften: Die Stadt verfügt über bemerkenswerte Beispiele antiker singhalesischer Architektur, einschließlich des Gal Vihara-Felsentempels mit seinen massiven Buddha-Statuen, die aus Granit geschnitzt wurden.",
+          "irrigationSystem": "Bewässerungssystem: Polonnaruwa ist berühmt für sein ausgeklügeltes Bewässerungssystem mit zahlreichen Tanks und Kanälen, die die fortgeschrittene hydraulische Ingenieurskunst der alten Singhalesen demonstrieren.",
+          "decline": "Niedergang im 13. Jahrhundert: Das Königreich begann im 13. Jahrhundert zu verfallen, was schließlich zur Aufgabe von Polonnaruwa als Hauptstadt und zur Verlagerung der Macht in andere Regionen führte."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "quadrangle": {
+            "title": "Das Quadrangle",
+            "description": "Eine kompakte Gruppe antiker Gebäude, einschließlich des Vatadage, Thuparama und anderer bedeutender Strukturen, die die architektonische Brillanz des antiken Polonnaruwa zeigen."
+          },
+          "galVihara": {
+            "title": "Gal Vihara",
+            "description": "Ein Felsentempel mit vier prächtigen Buddha-Statuen, die aus einem einzigen Granitfelsen geschnitzt wurden, einschließlich eines massiven liegenden Buddha, die als Meisterwerke der antiken singhalesischen Skulptur gelten."
+          },
+          "rankotVihara": {
+            "title": "Rankot Vihara",
+            "description": "Die größte Dagoba in Polonnaruwa, 55 Meter hoch, erbaut während der Herrschaft von König Nissanka Malla im 12. Jahrhundert."
+          },
+          "parakramaSamudra": {
+            "title": "Parakrama Samudra",
+            "description": "Ein massives künstliches Reservoir, erbaut von König Parakramabahu I., das eine Fläche von 2.500 Hektar bedeckt und die fortgeschrittene Bewässerungstechnik des antiken Sri Lanka demonstriert."
+          },
+          "potgulVihara": {
+            "title": "Potgul Vihara",
+            "description": "Ein einzigartiger Bibliothekskomplex mit einer kreisförmigen Struktur, von dem angenommen wird, dass er antike Manuskripte und religiöse Texte beherbergt hat."
+          }
+        }
+      }
     },
     "sigiriyaDambullaDayTour": {
       "title": "Sigiriya & Dambulla Tagestour",
       "location": "Sigiriya & Dambulla",
-      "description": "Sigiriya, ein antiker Palast, wurde einmal als das 8. Weltwunder nominiert. Heute sind Sigiriya und Dambulla ein UNESCO-anerkanntes Kulturerbe und eine wichtige Touristenattraktion."
+      "description": "Sigiriya, ein antiker Palast, wurde einmal als das 8. Weltwunder nominiert. Heute sind Sigiriya und Dambulla ein UNESCO-anerkanntes Kulturerbe und eine wichtige Touristenattraktion.",
+      "introDescription": "Sigiriya, ein antiker Palast, wurde einmal als das 8. Weltwunder nominiert. Heute sind Sigiriya und Dambulla ein UNESCO-anerkanntes Kulturerbe und eine wichtige Touristenattraktion.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Sigiriya, ein antiker Palast und Felsenfort, wurde einmal als das 8. Weltwunder nominiert. Heute sind Sigiriya und Dambulla UNESCO-anerkannte Kulturerbestätten und wichtige Touristenattraktionen. Diese Tagestour führt Sie durch zwei der ikonischsten historischen Stätten Sri Lankas und zeigt antike Architektur, atemberaubende Fresken und bemerkenswerte Höhlentempel, die die Geschichte eines reichen kulturellen Erbes erzählen, das über zwei Jahrtausende zurückreicht.",
+        "historicalProminenceTitle": "Historische Bedeutung von Sigiriya & Dambulla",
+        "historicalPoints": {
+          "5thCenturyAD": "5. Jahrhundert n. Chr.: König Kassapa I. baute die Palastfestung auf dem Gipfel des Sigiriya-Felsens und schuf damit eine der bemerkenswertesten architektonischen Errungenschaften des antiken Sri Lanka.",
+          "sigiriyaFrescoes": "Sigiriya-Fresken: Die berühmten Gemälde von Himmelsjungfrauen (Apsaras) gelten als Meisterwerke der antiken sri-lankischen Kunst und reichen über 1.500 Jahre zurück.",
+          "dambullaCaves": "1. Jahrhundert v. Chr.: Der Dambulla-Höhlentempel wurde von König Valagamba gegründet, der während einer Invasion in den Höhlen Zuflucht suchte. Der Tempelkomplex wird seit über 2.000 Jahren kontinuierlich genutzt.",
+          "unescoHeritage": "UNESCO-Weltkulturerbe: Sowohl Sigiriya (1982) als auch Dambulla (1991) wurden zum UNESCO-Weltkulturerbe erklärt und würdigen ihren außergewöhnlichen universellen Wert und ihre kulturelle Bedeutung.",
+          "architecturalMarvels": "Architektonische Wunder: Sigiriya verfügt über ausgeklügelte Wassergärten, Spiegelwände und das ikonische Löwentor, während Dambulla über 150 Buddha-Statuen und umfangreiche Höhlenmalereien beherbergt.",
+          "culturalTriangle": "Kulturelles Dreieck: Beide Stätten sind Teil des Kulturellen Dreiecks Sri Lankas, zusammen mit Anuradhapura und Polonnaruwa, und repräsentieren das goldene Zeitalter der antiken singhalesischen Zivilisation.",
+          "kingParakramabahu": "12. Jahrhundert n. Chr.: König Parakramabahu I. renovierte und erweiterte den Dambulla-Höhlentempel und fügte viele der Statuen und Gemälde hinzu, die heute zu sehen sind.",
+          "modernSignificance": "Moderne Bedeutung: Heute ziehen diese Stätten jährlich Millionen von Besuchern an und bleiben aktive Orte der Anbetung, die Respekt und angemessene Kleidung von Besuchern erfordern."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "sigiriyaRock": {
+            "title": "Sigiriya Felsenfort",
+            "description": "Ein antikes Felsenfort und Palastruinen im Matale-Distrikt. Sigiriya ist ein UNESCO-Weltkulturerbe, berühmt für seine antiken Fresken und die Spiegelwand."
+          },
+          "dambullaCaveTemple": {
+            "title": "Dambulla Höhlentempel",
+            "description": "Auch bekannt als der Goldene Tempel von Dambulla, ist dies der größte und am besten erhaltene Höhlentempelkomplex in Sri Lanka mit über 150 Buddha-Statuen."
+          },
+          "sigiriyaFrescoes": {
+            "title": "Sigiriya Fresken",
+            "description": "Die berühmten antiken Gemälde von Sigiriya, die Himmelsjungfrauen darstellen, gelten als Meisterwerke der antiken sri-lankischen Kunst."
+          },
+          "mirrorWall": {
+            "title": "Spiegelwand",
+            "description": "Eine polierte Putzwand, die einst wie ein Spiegel reflektierte, ist jetzt mit antiken Graffiti und Gedichten aus über 1.000 Jahren bedeckt."
+          },
+          "lionGate": {
+            "title": "Löwentor",
+            "description": "Die massiven Steinpfoten eines Löwen, die einst den Eingang zum Palast auf dem Gipfel des Sigiriya-Felsens bewachten."
+          },
+          "waterGardens": {
+            "title": "Wassergärten",
+            "description": "Ausgeklügelte hydraulische Systeme und symmetrische Wassergärten am Fuße des Sigiriya-Felsens, die antike Ingenieurswunder zeigen."
+          }
+        }
+      }
     },
     "sinharajaDayTour": {
       "title": "Sinharaja Tagestour",
-      "location": "Sinharaja Regenwald",
-      "description": "UNESCO-Weltkulturerbe seit 1988. Derzeit erstreckt sich das Reservat über 8864 Hektar und das Land plant, die Größe des Gebiets zu vervierfachen, um die ökologische Bedeutung der Region zu respektieren."
+      "location": "Sinharaja",
+      "description": "UNESCO-Weltkulturerbe seit 1988. Derzeit erstreckt sich das Reservat über 8864 Hektar und das Land plant, die Größe des Gebiets zu vervierfachen, um die ökologische Bedeutung der Region zu respektieren.",
+      "introDescription": "UNESCO-Weltkulturerbe seit 1988. Derzeit erstreckt sich das Reservat über 8864 Hektar und das Land plant, die Größe des Gebiets zu vervierfachen, um die ökologische Bedeutung der Region zu respektieren.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Das reiche und einzigartige Tier- und Pflanzenleben im Sinharaja-Regenwaldreservat ist der Grund, warum es 1988 als UNESCO-Weltkulturerbe markiert wurde. Derzeit erstreckt sich das Reservat über 8864 Hektar und das Land plant, die Größe des Gebiets zu vervierfachen, um die ökologische Bedeutung der Region zu respektieren. Der hügelige unberührte Regenwald ist ein Schatz an endemischen Arten, einschließlich Säugetieren, Reptilien, Vögeln, Amphibien und natürlich einer Fülle von Bäumen und Insekten. Besonders bekannt für Vogelbeobachtung, ein interessantes Phänomen hier ist, dass Vögel in gemischten Futtergruppen wandern, angeführt vom großen Racketschwanz-Drongo und dem lauten Orange-Schnabel-Babbler. 20 der 26 endemischen Vogelarten in Sri Lanka werden im Sinharaja-Regenwald gesehen. Zusätzlich zu Vögeln sind mehr als 60% der Pflanzen endemisch, von denen viele selten sind. Das Reservat beherbergt auch mehr als 50% der endemischen Säugetier-, Schmetterlings-, Reptilien-, Amphibien- und Insektenarten des Landes.",
+        "journeyTitle": "Reise ins wilde Herz von Sinharaja",
+        "journeyPoints": {
+          "trek": "Trekken Sie durch den Sinharaja-Regenwald, ein UNESCO-Weltkulturerbe und Sri Lankas letztes bedeutendes Stück primären tropischen Regenwalds.",
+          "biodiversity": "Entdecken Sie einen unglaublichen Biodiversitäts-Hotspot, an dem die Mehrheit der endemischen Säugetier- und Insektenarten Sri Lankas gedeiht.",
+          "junglefowl": "Halten Sie Ihre Augen auf das Blätterdach gerichtet, um seltene endemische Vögel wie den lebendigen rotgesichtigen Sri-Lanka-Junglehuhn zu entdecken.",
+          "owl": "Hören Sie auf den charakteristischen Ruf des Serendib-Zwergohreule, einem der vielen seltenen Vögel, die nur hier gefunden werden.",
+          "guide": "Ihr erfahrener Naturforscher-Führer hilft Ihnen, schwer fassbare Wildtiere zu lokalisieren und erklärt das komplexe, empfindliche Ökosystem des Waldes.",
+          "canopy": "Bewundern Sie das üppige smaragdgrüne Blätterdach, gefüllt mit einer Vielzahl von einheimischen Bäumen und Heilpflanzen.",
+          "reptiles": "Erleben Sie eine atemberaubende Vielfalt einzigartiger Reptilien und Amphibien, die diesen geschützten Regenwald ihr Zuhause nennen.",
+          "atmosphere": "Erleben Sie die ruhige Atmosphäre und die kühle, feuchte Luft unter dem dichten Schatten des ineinandergreifenden Waldblätterdachs.",
+          "paths": "Folgen Sie windenden Pfaden vorbei an sanften Bächen und kleinen, malerischen Wasserfällen, die tief im unberührten Waldland versteckt sind.",
+          "beauty": "Lassen Sie sich von der schieren Schönheit dieser unberührten Wildnis verzaubern, ein wahres Paradies für Naturliebhaber und Fotografen.",
+          "immersive": "Diese geführte Tour bietet eine immersive und lehrreiche Reise ins Herz eines lebendigen, atmenden Ökosystems.",
+          "magpie": "Begegnen Sie dem unvergesslichen Anblick des brillanten Sri-Lanka-Blauelster, einer Flaggschiff-Art von Sinharaja."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "birds": {
+            "title": "Vögel",
+            "description": "Der Sinharaja-Regenwald in Sri Lanka ist berühmt für seine einzigartigen und vielfältigen Vogelarten, von denen viele endemisch auf der Insel sind, was ihn zu einem Paradies für Vogelbeobachter und Naturschützer macht. Hier sind einige der Vögel, die Sie sehen werden: Sri-Lanka-Blauelster, Grauhornvogel, Rotgesicht-Malkoha, Schuppendrossel, Waldtaube, Gelbohr-Bülbül, Düsterblauer Fliegenschnäpper."
+          },
+          "mammals": {
+            "title": "Säugetiere",
+            "description": "Der Sinharaja-Regenwald bietet eine reiche Vielfalt an Säugetierleben, mit vielen Arten, die ausschließlich in Sri Lanka gefunden werden, und bietet eine fesselnde Erfahrung für Wildtier-Enthusiasten."
+          },
+          "reptiles": {
+            "title": "Reptilien",
+            "description": "Der Sinharaja-Regenwald ist ein Schatz an reptilischer Vielfalt und beherbergt eine Reihe von Arten, die dieses sri-lankische Juwel zu ihrem exklusiven Zuhause gemacht haben."
+          },
+          "rainforestReserve": {
+            "title": "Sinharaja Regenwaldreservat",
+            "description": "Aufgrund der dichten Vegetation ist die Tierbeobachtung eine Herausforderung. Diese Art von Atmosphäre ist jedoch ein echter Genuss für Wildtier-Enthusiasten, die sehnsüchtig darauf warten, tief in die Wälder zu reisen, um seltene Wildtiere zu suchen."
+          }
+        }
+      }
     },
     "udawalaweNationalParkDayTour": {
       "title": "Udawalawe Nationalpark Tagestour",
       "location": "Udawalawe",
-      "description": "Dieser Park ist der drittmeistbesuchte Park in ganz Sri Lanka und bietet Besuchern eine Fusion von Flora und Fauna. Herden von Elefanten, Büffeln, Hirschen…"
+      "description": "Dieser Park ist der drittmeistbesuchte Park in ganz Sri Lanka und bietet Besuchern eine Fusion von Flora und Fauna. Herden von Elefanten, Büffeln, Hirschen…",
+      "introDescription": "Dieser Park ist der drittmeistbesuchte Park in ganz Sri Lanka und bietet Besuchern eine Fusion von Flora und Fauna. Herden von Elefanten, Büffeln, Hirschen und vielfältige Vogelarten machen dies zu einem Paradies für Wildtier-Enthusiasten.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Der Udawalawe Nationalpark ist der drittmeistbesuchte Park in ganz Sri Lanka und bietet Besuchern eine Fusion von Flora und Fauna. Der Park ist berühmt für seine großen Elefantenherden, Büffel, Hirsche und vielfältige Vogelarten. Diese Tagestour bietet ein unvergessliches Wildtier-Safari-Erlebnis in einem der am leichtesten zugänglichen und wildtierreichsten Nationalparks Sri Lankas.",
+        "parkHighlightsTitle": "Park-Highlights & Wildtiere",
+        "highlights": {
+          "elephants": "Elefantenherden: Udawalawe ist berühmt für seine großen Elefantenpopulationen und bietet ausgezeichnete Möglichkeiten, diese majestätischen Kreaturen in ihrem natürlichen Lebensraum zu beobachten.",
+          "wildlife": "Vielfältige Wildtiere: Entdecken Sie Wasserbüffel, Fleckenhirsche, Sambarhirsche, Wildschweine und verschiedene andere Säugetiere im gesamten Park.",
+          "birds": "Vogelbeobachtung: Der Park beherbergt über 180 Vogelarten, einschließlich endemischer und Zugvögel, was ihn zu einem Paradies für Vogel-Enthusiasten macht.",
+          "reservoir": "Udawalawe Reservoir: Der Park umgibt das Udawalawe Reservoir und schafft ein einzigartiges Ökosystem, das vielfältige Wildtiere anzieht.",
+          "safari": "Jeep-Safari-Erlebnis: Genießen Sie eine aufregende Jeep-Safari durch das abwechslungsreiche Gelände des Parks, von Grasland bis zu Buschwäldern.",
+          "accessibility": "Einfache Zugänglichkeit: Nur 180 km von Colombo entfernt, ist Udawalawe leicht erreichbar und perfekt für einen Tagesausflug.",
+          "conservation": "Erfolg im Naturschutz: Der Park spielt eine entscheidende Rolle im Elefantenschutz und beherbergt das Udawalawe Elephant Transit Home."
+        }
+      },
+      "cards": {
+        "elephantSafari": {
+          "title": "Elefanten-Safari",
+          "description": "Erleben Sie enge Begegnungen mit wilden Elefanten in ihrem natürlichen Lebensraum im Udawalawe Nationalpark. Sehen Sie diese majestätischen Kreaturen, wie sie frei umherstreifen, in Wasserlöchern baden und mit ihren Herden interagieren."
+        },
+        "wildlifeSpotting": {
+          "title": "Wildtier-Beobachtung",
+          "description": "Entdecken Sie vielfältige Wildtiere, einschließlich Elefanten, Wasserbüffel, Fleckenhirsche, Sambarhirsche, Wildschweine und über 180 Vogelarten. Der Park bietet ausgezeichnete Möglichkeiten für Wildtierfotografie und Vogelbeobachtung."
+        }
+      }
     },
     "whaleWatchingDayTour": {
       "title": "Walbeobachtung Tagestour",
       "location": "Mirissa",
-      "description": "Sri Lanka ist eines der besten Ziele für Walbeobachtung in Asien. Pottwale und Blauwale sind vor der Südküste häufig anzutreffen…"
+      "description": "Sri Lanka ist eines der besten Ziele für Walbeobachtung in Asien. Pottwale und Blauwale sind vor der Südküste häufig anzutreffen…",
+      "introDescription": "Sri Lanka ist eines der besten Ziele für Walbeobachtung in Asien. Pottwale und Blauwale sind vor der Südküste häufig anzutreffen, insbesondere rund um Mirissa. Diese Tagestour bietet ein unvergessliches Erlebnis, diese majestätischen Meeresriesen in ihrem natürlichen Lebensraum zu beobachten. Die beste Zeit für Walbeobachtung ist von November bis April, wenn die Ozeanbedingungen ideal sind und Walbeobachtungen am häufigsten sind.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Sri Lanka ist eines der besten Ziele für Walbeobachtung in Asien. Pottwale und Blauwale sind vor der Südküste häufig anzutreffen, insbesondere rund um Mirissa. Diese Tagestour bietet ein unvergessliches Erlebnis, diese majestätischen Meeresriesen in ihrem natürlichen Lebensraum zu beobachten. Die beste Zeit für Walbeobachtung ist von November bis April, wenn die Ozeanbedingungen ideal sind und Walbeobachtungen am häufigsten sind."
+      }
     },
     "yalaNationalParkDayTour": {
       "title": "Yala Nationalpark Tagestour",
-      "location": "Yala Nationalpark",
-      "description": "Waren Sie schon einmal auf Safari in einem Dschungel, der von Leoparden beherrscht wird? Der Yala Nationalpark ist Ihre Antwort! Mit 130.000 Hektar Landschaft…"
+      "location": "Yala",
+      "description": "Waren Sie schon einmal auf Safari in einem Dschungel, der von Leoparden beherrscht wird? Der Yala Nationalpark ist Ihre Antwort! Mit 130.000 Hektar Landschaft…",
+      "introDescription": "Waren Sie schon einmal auf Safari in einem Dschungel, der von Leoparden beherrscht wird? Der Yala Nationalpark ist Ihre Antwort! Mit 130.000 Hektar Landschaft ist Yala der berühmteste Nationalpark Sri Lankas und hat die höchste Leopardendichte der Welt. Diese Tagestour bietet eine unglaubliche Gelegenheit, Leoparden, Elefanten, Lippenbären, Krokodile und eine Vielzahl von Vogelarten in ihrem natürlichen Lebensraum zu beobachten.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Waren Sie schon einmal auf Safari in einem Dschungel, der von Leoparden beherrscht wird? Der Yala Nationalpark ist Ihre Antwort! Mit 130.000 Hektar Landschaft ist Yala der berühmteste Nationalpark Sri Lankas und hat die höchste Leopardendichte der Welt. Diese Tagestour bietet eine unglaubliche Gelegenheit, Leoparden, Elefanten, Lippenbären, Krokodile und eine Vielzahl von Vogelarten in ihrem natürlichen Lebensraum zu beobachten."
+      }
     },
     "wilpattuNationalParkDayTour": {
       "title": "Wilpattu Nationalpark Tagestour",
-      "location": "Wilpattu Nationalpark",
-      "description": "Für Ihre Tagestour durch den Wilpattu Nationalpark werden Sie auf einer Jeep-Safari durch den Park gefahren, um Sri Lankas Wildtiere wie Elefanten, Schakale, Lippenbären und Leoparden zu beobachten"
+      "location": "Wilpattu",
+      "description": "Für Ihre Tagestour durch den Wilpattu Nationalpark werden Sie auf einer Jeep-Safari durch den Park gefahren, um Sri Lankas Wildtiere wie Elefanten, Schakale, Lippenbären und Leoparden zu beobachten",
+      "introDescription": "Für Ihre Tagestour durch den Wilpattu Nationalpark werden Sie auf einer Jeep-Safari durch den Park gefahren, um Sri Lankas Wildtiere wie Elefanten, Schakale, Lippenbären und Leoparden zu beobachten. Wilpattu ist der größte und einer der ältesten Nationalparks in Sri Lanka, bekannt für seine einzigartigen 'Willus' (natürliche Seen) und vielfältige Wildtiere. Der Park bietet eine authentische Safari-Erfahrung mit Möglichkeiten, Leoparden, Elefanten und viele andere Arten in ihrem natürlichen Lebensraum zu sehen.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Für Ihre Tagestour durch den Wilpattu Nationalpark werden Sie auf einer Jeep-Safari durch den Park gefahren, um Sri Lankas Wildtiere wie Elefanten, Schakale, Lippenbären und Leoparden zu beobachten. Wilpattu ist der größte und einer der ältesten Nationalparks in Sri Lanka, bekannt für seine einzigartigen 'Willus' (natürliche Seen) und vielfältige Wildtiere. Der Park bietet eine authentische Safari-Erfahrung mit Möglichkeiten, Leoparden, Elefanten und viele andere Arten in ihrem natürlichen Lebensraum zu sehen."
+      }
     }
   },
   "tailorMadeTours": {
@@ -1493,16 +1831,25 @@
       "validation": {
         "titleRequired": "Bitte wählen Sie einen Titel aus",
         "fullNameRequired": "Bitte geben Sie Ihren vollständigen Namen ein",
+        "fullNameMinLength": "Der vollständige Name muss mindestens 3 Zeichen lang sein",
         "nationalityRequired": "Bitte geben Sie Ihre Nationalität ein",
         "emailRequired": "Bitte geben Sie Ihre E-Mail-Adresse ein",
         "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
         "phoneRequired": "Bitte geben Sie Ihre Telefonnummer ein",
+        "phoneInvalid": "Bitte geben Sie eine gültige Telefonnummer ein (7-20 Ziffern, optional +, Leerzeichen, Bindestriche oder Klammern)",
         "dateRequired": "Bitte wählen Sie ein Datum aus",
+        "dateInvalid": "Bitte geben Sie ein gültiges Reisedatum ein",
+        "dateInPast": "Das Reisedatum darf nicht in der Vergangenheit liegen",
         "nightsRequired": "Bitte geben Sie die Anzahl der Nächte ein",
+        "nightsInvalidNumber": "Die Anzahl der Nächte muss eine gültige Zahl sein",
         "nightsInvalid": "Die Anzahl der Nächte muss mindestens 1 betragen",
+        "nightsTooHigh": "Die Anzahl der Nächte scheint zu hoch zu sein, bitte kontaktieren Sie uns direkt für längere Aufenthalte",
         "adultsRequired": "Bitte geben Sie die Anzahl der Erwachsenen ein",
+        "adultsInvalidNumber": "Die Anzahl der Erwachsenen muss eine gültige Zahl sein",
         "adultsInvalid": "Die Anzahl der Erwachsenen muss mindestens 1 betragen",
+        "adultsTooHigh": "Die Anzahl der Erwachsenen scheint zu hoch zu sein, bitte kontaktieren Sie uns direkt für große Gruppen",
         "accommodationRequired": "Bitte wählen Sie einen Unterkunftstyp aus",
+        "specialNotesTooLong": "Besondere Hinweise müssen unter 1000 Zeichen sein",
         "hearAboutUsRequired": "Bitte wählen Sie aus, wie Sie von uns erfahren haben",
         "pleaseFillAllFields": "Bitte füllen Sie alle erforderlichen Felder aus, bevor Sie absenden."
       },

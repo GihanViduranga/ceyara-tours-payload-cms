@@ -1218,8 +1218,60 @@
     },
     "colomboDayTour": {
       "title": "Tagestour von Colombo",
-      "location": "Colombo Stadt",
-      "description": "Dieses antike Erbe spiegelt sich heute in der Stadt wider, was ihre Architektur angeht, die aus Kolonialgebäuden sowie Hochhäusern und Einkaufszentren besteht."
+      "location": "Colombo",
+      "description": "Entdecken Sie die pulsierende Hauptstadt Sri Lankas, wo koloniale Architektur auf moderne Wolkenkratzer und geschäftige Märkte trifft.",
+      "introDescription": "Entdecken Sie die pulsierende Hauptstadt Sri Lankas, wo koloniale Architektur auf moderne Wolkenkratzer und geschäftige Märkte trifft.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Colombo, die Handelshauptstadt Sri Lankas, ist eine pulsierende Stadt, die ihre koloniale Vergangenheit wunderschön mit moderner Entwicklung verbindet. Dieses antike Erbe spiegelt sich heute in der Stadt wider, was ihre Architektur angeht, die aus Kolonialgebäuden sowie Hochhäusern und Einkaufszentren besteht.",
+        "historicalProminenceTitle": "Über Colombo",
+        "historicalPoints": {
+          "colonialHeritage": "Koloniales Erbe: Colombo verfügt über gut erhaltene koloniale Architektur aus portugiesischer, niederländischer und britischer Zeit.",
+          "commercialCapital": "Handelshauptstadt: Als größte Stadt und Handelszentrum Sri Lankas ist Colombo das Tor zur Insel.",
+          "culturalDiversity": "Kulturelle Vielfalt: Erleben Sie eine reiche Mischung aus singhalesischer, tamilischer, muslimischer und burgherischer Kultur.",
+          "modernDevelopment": "Moderne Entwicklung: Erleben Sie die Transformation der Stadt mit modernen Wolkenkratzern, Einkaufszentren und Luxushotels.",
+          "religiousSites": "Religiöse Stätten: Besuchen Sie buddhistische Tempel, hinduistische Kovils, Moscheen und Kirchen, die religiöse Harmonie zeigen.",
+          "marketsShopping": "Märkte & Einkaufen: Erkunden Sie pulsierende Märkte wie Pettah und moderne Einkaufszentren.",
+          "culinaryScene": "Kulinarische Szene: Genießen Sie vielfältige Küche von Street Food bis zu Feinschmeckerrestaurants.",
+          "coastalBeauty": "Küstenpracht: Genießen Sie die malerische Galle Face Green Promenade entlang des Indischen Ozeans."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "gangaramayaTemple": {
+            "title": "Gangaramaya Tempel",
+            "description": "Eine Mischung aus moderner Architektur und kulturellem Erbe, der Gangaramaya Tempel ist ein friedlicher buddhistischer Tempel, der heilige Relikte, Statuen und eine ruhige Meditationsumgebung zeigt."
+          },
+          "stLuciasCathedral": {
+            "title": "St. Lucia Kathedrale",
+            "description": "Diese prächtige katholische Kathedrale zeichnet sich durch neobarocke Architektur, schöne Buntglasfenster aus und dient als spirituelles Wahrzeichen für Gläubige im Herzen von Colombo."
+          },
+          "redMosque": {
+            "title": "Rote Moschee (Jami Ul-Alfar Moschee)",
+            "description": "Berühmt für ihre auffällige rot-weiß gemusterte Außenseite ist die Rote Moschee eine historische islamische Stätte und ein ikonisches architektonisches Symbol in Colombo."
+          },
+          "nationalMuseum": {
+            "title": "Nationalmuseum",
+            "description": "Das Colombo Nationalmuseum beherbergt Sri Lankas reiche Geschichte, Kunst und Kultur und zeigt königliche Artefakte, antike Waffen und archäologische Schätze."
+          },
+          "kathiresanKovil": {
+            "title": "Kathiresan Kovil",
+            "description": "Ein lebendiger Hindu-Tempel, der Lord Murugan gewidmet ist, der Kathiresan Kovil ist bekannt für seine farbenfrohe Architektur, detaillierte Skulpturen und lebendige religiöse Feste."
+          },
+          "cargillsBuilding": {
+            "title": "Cargills Gebäude",
+            "description": "Ein historisches Geschäftsgebäude in Colombo, das Cargills Gebäude repräsentiert die koloniale Architektur der Stadt und ist weiterhin ein Zentrum für Einkaufen und Geschäfte."
+          },
+          "lotusTower": {
+            "title": "Lotus Tower",
+            "description": "Als höchstes Bauwerk Sri Lankas bietet der Lotus Tower Panoramablicke auf die Stadt, ein Drehrestaurant und Unterhaltungseinrichtungen und symbolisiert das moderne Colombo und seine architektonischen Wunder."
+          }
+        }
+      }
     },
     "galleDayTour": {
       "title": "Galle Tagestour",

@@ -1275,7 +1275,63 @@
     "galleDayTour": {
       "title": "Excursión de un día Galle",
       "location": "Galle",
-      "description": "El Fuerte de Galle fue construido por los portugueses, fortificado más tarde por los holandeses y está bien conservado hasta hoy. Además de los restos portugueses y holandeses…"
+      "description": "Sumérjase en el encanto de la costa sur de Sri Lanka mientras camina por las históricas murallas del Fuerte de Galle, visita monumentos patrimoniales y se relaja en playas bañadas por el sol.",
+      "introDescription": "Sumérjase en el encanto de la costa sur de Sri Lanka mientras camina por las históricas murallas del Fuerte de Galle, visita monumentos patrimoniales y se relaja en playas bañadas por el sol.",
+      "buttons": {
+        "exploreMore": "EXPLORAR MÁS",
+        "bookThisTour": "RESERVAR ESTA EXCURSIÓN"
+      },
+      "detailedDescription": {
+        "intro": "El legado de Galle como centro marítimo combina fortificaciones europeas con el espíritu de Sri Lanka. Pase el día explorando callejones adoquinados, bastiones elevados, boutiques de artesanos y los escapes costeros que hacen que la capital del sur sea inolvidable.",
+        "historicalProminenceTitle": "Destacados de la experiencia de Galle",
+        "historicalPoints": {
+          "unescoHeritage": "Patrimonio UNESCO: Recorra las murallas, torres de vigilancia y mansiones coloniales del Fuerte de Galle que le valieron a la ciudad su estatus de Patrimonio Mundial.",
+          "colonialArchitecture": "Arquitectura Colonial: Descubra iglesias de la era holandesa, edificios administrativos británicos y casas de comerciantes pastel que bordean las calles.",
+          "culturalBlend": "Mezcla Cultural: Experimente una mezcla armoniosa de comunidades cingalesas, moras, burgher y expatriadas que dan forma a los sabores y festivales de la ciudad.",
+          "artisanBoutiques": "Boutiques de Artesanos: Explore textiles de telar manual, estudios de gemas, tiendas de artesanías y cafés elegantes escondidos en edificios patrimoniales.",
+          "seasideViews": "Vistas al Mar: Disfrute de panorámicas oceánicas desde el faro, playas bañadas por el sol y paseos bordeados de palmeras.",
+          "culinaryFinds": "Hallazgos Culinarios: Saboree mariscos frescos, comida fusión y delicias tropicales en restaurantes del fuerte y chozas junto al mar.",
+          "adventureStops": "Paradas de Aventura: Agregue actividades opcionales como ciclismo, esnórquel o paseos en bote a través de manglares cercanos para un toque activo.",
+          "relaxationBreaks": "Pausas de Relajación: Relájese con picnics al atardecer en las murallas o tratamientos de spa en hoteles boutique escondidos dentro del fuerte."
+        }
+      },
+      "placesCarousel": {
+        "title": "Lugares que visitará",
+        "places": {
+          "galleFort": {
+            "title": "Fuerte de Galle",
+            "description": "El Fuerte de Galle es un sitio patrimonial de la UNESCO con arquitectura colonial, museos, calles encantadoras, vistas al océano, cafés y monumentos culturales, ofreciendo una mezcla única de historia."
+          },
+          "galleLighthouse": {
+            "title": "Faro de Galle",
+            "description": "El Faro de Galle es un hito costero icónico que ofrece vistas al océano, hermosos atardeceres, brisa marina refrescante y excelentes oportunidades fotográficas, convirtiéndolo en uno de los destacados de Galle."
+          },
+          "dutchReformedChurch": {
+            "title": "Iglesia Reformada Holandesa",
+            "description": "La Iglesia Reformada Holandesa, construida en el siglo XVIII, presenta arquitectura colonial, lápidas históricas y un interior pacífico, ofreciendo a los visitantes un vistazo al pasado de Galle."
+          },
+          "maritimeMuseum": {
+            "title": "Museo Marítimo",
+            "description": "El Museo Marítimo destaca la historia marítima de Galle a través de exhibiciones de naufragios, artefactos comerciales antiguos y descubrimientos submarinos, ofreciendo a los visitantes una experiencia educativa."
+          },
+          "jungleBeach": {
+            "title": "Playa Jungle",
+            "description": "Jungle Beach es un escape costero oculto con aguas tranquilas, arena suave, alrededores exuberantes y excelente esnórquel, ofreciendo a los visitantes un lugar pacífico para relajarse."
+          },
+          "japanesePeacePagoda": {
+            "title": "Pagoda de la Paz Japonesa",
+            "description": "La Pagoda de la Paz Japonesa se encuentra en una colina tranquila que ofrece vistas panorámicas costeras, alrededores pacíficos y una atmósfera espiritual calmante, convirtiéndola en un hermoso lugar."
+          },
+          "unawatunaBeach": {
+            "title": "Playa Unawatuna",
+            "description": "Unawatuna Beach es un destino costero animado con arena dorada, agua clara, restaurantes junto a la playa, lugares para nadar y vida nocturna, ofreciendo a los visitantes una experiencia divertida y relajante."
+          },
+          "stiltFishermen": {
+            "title": "Pescadores en Zancos (Koggala)",
+            "description": "Los pescadores en zancos en Koggala muestran métodos de pesca tradicionales junto a costas pintorescas, ofreciendo a los visitantes información cultural, oportunidades fotográficas y una experiencia auténtica de Sri Lanka."
+          }
+        }
+      }
     },
     "geoffreyBawaWorksSriLanka": {
       "title": "Obras de Geoffrey Bawa en Sri Lanka",

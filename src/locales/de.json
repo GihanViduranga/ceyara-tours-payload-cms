@@ -1276,7 +1276,63 @@
     "galleDayTour": {
       "title": "Galle Tagestour",
       "location": "Galle",
-      "description": "Die Galle-Festung wurde von den Portugiesen erbaut, später von den Niederländern befestigt und ist bis heute gut erhalten. Neben den portugiesischen und niederländischen Überresten…"
+      "description": "Tauchen Sie ein in den Charme der Südküste Sri Lankas, während Sie die geschichtsträchtigen Wälle des Galle Forts erkunden, Kulturerbestätten besuchen und an sonnenverwöhnten Stränden entspannen.",
+      "introDescription": "Tauchen Sie ein in den Charme der Südküste Sri Lankas, während Sie die geschichtsträchtigen Wälle des Galle Forts erkunden, Kulturerbestätten besuchen und an sonnenverwöhnten Stränden entspannen.",
+      "buttons": {
+        "exploreMore": "MEHR ERKUNDEN",
+        "bookThisTour": "DIESE TOUR BUCHEN"
+      },
+      "detailedDescription": {
+        "intro": "Galles Erbe als maritimes Zentrum verbindet europäische Befestigungen mit sri-lankischem Geist. Verbringen Sie den Tag damit, Kopfsteinpflastergassen, hohe Bastionen, Kunsthandwerksboutiquen und die Küstenfluchten zu erkunden, die die südliche Hauptstadt unvergesslich machen.",
+        "historicalProminenceTitle": "Highlights des Galle-Erlebnisses",
+        "historicalPoints": {
+          "unescoHeritage": "UNESCO-Erbe: Durchqueren Sie die Wälle, Wachtürme und Kolonialvillen des Galle Forts, die der Stadt ihren Weltkulturerbestatus einbrachten.",
+          "colonialArchitecture": "Kolonialarchitektur: Entdecken Sie holländische Kirchen, britische Verwaltungsgebäude und pastellfarbene Kaufmannshäuser, die die Straßen säumen.",
+          "culturalBlend": "Kulturelle Mischung: Erleben Sie eine harmonische Mischung aus singhalesischen, maurischen, burgherischen und Expatriate-Gemeinschaften, die die Aromen und Feste der Stadt prägen.",
+          "artisanBoutiques": "Kunsthandwerksboutiquen: Stöbern Sie in Handwebereien, Edelsteinstudios, Kunsthandwerksläden und schicken Cafés, die in Kulturerbegebäuden versteckt sind.",
+          "seasideViews": "Meerblick: Genießen Sie atemberaubende Ozeanpanoramen vom Leuchtturm, sonnenverwöhnten Stränden und palmenumsäumten Promenaden.",
+          "culinaryFinds": "Kulinarische Funde: Genießen Sie frischen Meeresfrüchte, Fusion-Küche und tropische Leckereien in Festungsrestaurants und Strandhütten.",
+          "adventureStops": "Abenteuerstopps: Fügen Sie optionale Aktivitäten wie Radfahren, Schnorcheln oder Bootsfahrten durch nahegelegene Mangroven für einen aktiven Twist hinzu.",
+          "relaxationBreaks": "Entspannungspausen: Entspannen Sie sich mit Sonnenuntergangspicknicks auf den Wällen oder Spa-Behandlungen in Boutique-Hotels, die in der Festung versteckt sind."
+        }
+      },
+      "placesCarousel": {
+        "title": "Orte, die Sie besuchen werden",
+        "places": {
+          "galleFort": {
+            "title": "Galle Fort",
+            "description": "Das Galle Fort ist ein UNESCO-Weltkulturerbe mit Kolonialarchitektur, Museen, charmanten Straßen, Meerblick, Cafés und kulturellen Wahrzeichen, die eine einzigartige Mischung aus Geschichte bieten."
+          },
+          "galleLighthouse": {
+            "title": "Galle Leuchtturm",
+            "description": "Der Galle Leuchtturm ist ein ikonisches Küstenwahrzeichen, das Meerblick, wunderschöne Sonnenuntergänge, erfrischende Meeresbrise und großartige Fotogelegenheiten bietet und ihn zu einem der Highlights von Galle macht."
+          },
+          "dutchReformedChurch": {
+            "title": "Niederländische Reformierte Kirche",
+            "description": "Die Niederländische Reformierte Kirche, erbaut im 18. Jahrhundert, zeichnet sich durch Kolonialarchitektur, historische Grabsteine und ein friedliches Inneres aus und bietet Besuchern einen Einblick in Galles Vergangenheit."
+          },
+          "maritimeMuseum": {
+            "title": "Maritimmuseum",
+            "description": "Das Maritimmuseum beleuchtet Galles Seefahrtsgeschichte durch Schiffswrackausstellungen, antike Handelsartefakte und Unterwasserentdeckungen und bietet Besuchern eine lehrreiche Erfahrung."
+          },
+          "jungleBeach": {
+            "title": "Jungle Beach",
+            "description": "Der Jungle Beach ist ein versteckter Küstenfluchtort mit ruhigem Wasser, weichem Sand, üppiger Umgebung und großartigem Schnorcheln und bietet Besuchern einen friedlichen Ort zum Entspannen."
+          },
+          "japanesePeacePagoda": {
+            "title": "Japanischer Friedenspagode",
+            "description": "Die Japanische Friedenspagode liegt auf einem ruhigen Hügel und bietet Panoramablick auf die Küste, friedliche Umgebung und eine beruhigende spirituelle Atmosphäre und ist ein wunderschöner Ort."
+          },
+          "unawatunaBeach": {
+            "title": "Unawatuna Strand",
+            "description": "Der Unawatuna Strand ist ein lebendiges Küstenziel mit goldenem Sand, klarem Wasser, Strandrestaurants, Schwimmplätzen und Nachtleben und bietet Besuchern eine unterhaltsame und entspannende Erfahrung."
+          },
+          "stiltFishermen": {
+            "title": "Stelzenfischer (Koggala)",
+            "description": "Stelzenfischer in Koggala zeigen traditionelle Fischereimethoden neben malerischen Küsten und bieten Besuchern kulturelle Einblicke, Fotogelegenheiten und ein authentisches sri-lankisches Erlebnis."
+          }
+        }
+      }
     },
     "geoffreyBawaWorksSriLanka": {
       "title": "Geoffrey Bawa Werke in Sri Lanka",

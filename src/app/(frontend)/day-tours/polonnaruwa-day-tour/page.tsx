@@ -13,7 +13,6 @@ import bannerMaskMobileSvg from '../../assest/images/banner_maskmobile.svg'
 import culturalTriangleImage from '../../assest/images/CulturalTriangle.jpg'
 import culturalTourImage from '../../assest/images/CulturalTour.jpg'
 import ramayanaTourImage from '../../assest/images/RamayanaTour.jpg'
-import potgulViharaya from '../../assest/images/potgulViharaya.jpg'
 import galVihara from '../../assest/images/galVihara.jpg'
 import rankotVihara from '../../assest/images/rankotVihara.jpg'
 import parakramaSamudra from '../../assest/images/parakramaSamudra.jpg'
@@ -65,14 +64,6 @@ const getPlacesData = (t: (key: string) => string): PlacesCarouselData[] => [
       image: parakramaSamudra,
     },
     otherPlaces: [
-      {
-        id: 6,
-        title: t('dayTours.polonnaruwaDayTour.placesCarousel.places.potgulVihara.title'),
-        description: t(
-          'dayTours.polonnaruwaDayTour.placesCarousel.places.potgulVihara.description',
-        ),
-        image: potgulViharaya,
-      },
     ],
   },
 ]

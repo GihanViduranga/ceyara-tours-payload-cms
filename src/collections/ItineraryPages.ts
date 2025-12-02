@@ -1,5 +1,34 @@
 import type { CollectionConfig } from 'payload'
 
+// Helper function to check if a string is a valid MongoDB ObjectId
+function isValidObjectId(id: unknown): boolean {
+  if (typeof id !== 'string') return false
+  // MongoDB ObjectId is 24 hex characters
+  return /^[0-9a-fA-F]{24}$/.test(id)
+}
+
+// Helper function to sanitize media references (remove URLs, keep only valid ObjectIds)
+function sanitizeMediaReference(ref: unknown): string | null {
+  if (!ref) return null
+  if (typeof ref === 'string') {
+    // If it's a URL, return null
+    if (ref.startsWith('http://') || ref.startsWith('https://')) {
+      return null
+    }
+    // If it's a valid ObjectId, return it
+    if (isValidObjectId(ref)) {
+      return ref
+    }
+    // Otherwise, return null
+    return null
+  }
+  // If it's already an object (populated), return the id
+  if (typeof ref === 'object' && ref !== null && 'id' in ref && typeof ref.id === 'string') {
+    return ref.id
+  }
+  return null
+}
+
 export const ItineraryPages: CollectionConfig = {
   slug: 'itinerary-pages',
   admin: {
@@ -8,15 +37,119 @@ export const ItineraryPages: CollectionConfig = {
   },
   access: {
     read: () => true,
-    create: ({ req: { user } }: { req: { user?: any } }) => {
+    create: ({ req }) => {
+      const user = req.user as { role?: string } | null | undefined
       return user?.role === 'admin' || user?.role === 'editor'
     },
-    update: ({ req: { user } }: { req: { user?: any } }) => {
+    update: ({ req }) => {
+      const user = req.user as { role?: string } | null | undefined
       return user?.role === 'admin' || user?.role === 'editor'
     },
-    delete: ({ req: { user } }: { req: { user?: any } }) => {
+    delete: ({ req }) => {
+      const user = req.user as { role?: string } | null | undefined
       return user?.role === 'admin'
     },
+  },
+  hooks: {
+    beforeChange: [
+      ({ data }) => {
+        // Sanitize image field
+        if (data.image) {
+          const sanitized = sanitizeMediaReference(data.image)
+          if (!sanitized && data.image) {
+            console.warn(`Invalid media reference in image field: ${data.image}. Setting to null.`)
+          }
+          data.image = sanitized
+        }
+
+        // Sanitize mainImage field
+        if (data.mainImage) {
+          const sanitized = sanitizeMediaReference(data.mainImage)
+          if (!sanitized && data.mainImage) {
+            console.warn(
+              `Invalid media reference in mainImage field: ${data.mainImage}. Setting to null.`,
+            )
+          }
+          data.mainImage = sanitized
+        }
+
+        // Sanitize itineraryDays images
+        if (data.itineraryDays && Array.isArray(data.itineraryDays)) {
+          data.itineraryDays = data.itineraryDays.map(
+            (day: { images?: Array<{ image?: unknown }> }) => {
+              if (day.images && Array.isArray(day.images)) {
+                day.images = day.images
+                  .map((img: { image?: unknown }) => {
+                    if (img.image) {
+                      const sanitized = sanitizeMediaReference(img.image)
+                      if (!sanitized && img.image) {
+                        console.warn(
+                          `Invalid media reference in itinerary day image: ${img.image}. Removing.`,
+                        )
+                        return null
+                      }
+                      return sanitized ? { ...img, image: sanitized } : null
+                    }
+                    return img
+                  })
+                  .filter((img): img is { image?: unknown } => img !== null)
+              }
+              return day
+            },
+          )
+        }
+
+        return data
+      },
+    ],
+    afterRead: [
+      ({ doc }) => {
+        // Sanitize image field
+        if (doc.image) {
+          const sanitized = sanitizeMediaReference(doc.image)
+          if (!sanitized) {
+            doc.image = null
+          } else if (typeof doc.image === 'string' && sanitized !== doc.image) {
+            doc.image = sanitized
+          }
+        }
+
+        // Sanitize mainImage field
+        if (doc.mainImage) {
+          const sanitized = sanitizeMediaReference(doc.mainImage)
+          if (!sanitized) {
+            doc.mainImage = null
+          } else if (typeof doc.mainImage === 'string' && sanitized !== doc.mainImage) {
+            doc.mainImage = sanitized
+          }
+        }
+
+        // Sanitize itineraryDays images
+        if (doc.itineraryDays && Array.isArray(doc.itineraryDays)) {
+          doc.itineraryDays = doc.itineraryDays.map(
+            (day: { images?: Array<{ image?: unknown }> }) => {
+              if (day.images && Array.isArray(day.images)) {
+                day.images = day.images
+                  .map((img: { image?: unknown }) => {
+                    if (img.image) {
+                      const sanitized = sanitizeMediaReference(img.image)
+                      if (!sanitized) {
+                        return null
+                      }
+                      return sanitized !== img.image ? { ...img, image: sanitized } : img
+                    }
+                    return img
+                  })
+                  .filter((img): img is { image?: unknown } => img !== null)
+              }
+              return day
+            },
+          )
+        }
+
+        return doc
+      },
+    ],
   },
   fields: [
     {
